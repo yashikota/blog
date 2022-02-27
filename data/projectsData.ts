@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'OIT Tools',
+    description: `OIT Toolsの各アプリケーションへのリンクや大学より配信されるニュースを表示`,
+    imgSrc: '/static/images/tools.webp',
+    href: 'https://tools.oit.yashikota.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'OIT Syllabus App',
+    description: `大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ。インクリメンタルサーチやフィルタリング、複数の年度にも対応`,
+    imgSrc: '/static/images/syllabus.webp',
+    href: 'https://syllabus.oit.yashikota.com',
   },
 ]
 

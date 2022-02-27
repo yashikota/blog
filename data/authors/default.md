@@ -1,16 +1,19 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: kota
+avatar: /static/images/icon.png
+github: https://github.com/yashikota
+twitter: https://twitter.com/awwoit
+rss: https://yashikota.com/feed.xml
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+## 興味のある分野
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+ゲーム業界 / プログラミング / ネットワーク / セキュリティ / フロントエンド / バックエンド
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## 触れた言語
+
+C / JavaScript / TypeScript / Python
+
+## 触れた技術
+
+React
