@@ -12,7 +12,7 @@ layout: PostSimple
 全部で 13 の区分があり、レベル 1 から 4 まで難易度分けされています。  
 ちなみに[ITSS](https://www.ipa.go.jp/files/000010085.pdf)という国が定めた IT スキルの標準に基づいてレベル分けされています。
 
-![taiken](/../public/static/images/blog/ipa-shiken/taikei.png)
+![taiken](/static/images/blog/ipa-shiken/taikei.png)
 
 ---
 
