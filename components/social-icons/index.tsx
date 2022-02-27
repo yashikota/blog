@@ -3,6 +3,7 @@ import Github from './github.svg'
 import Youtube from './youtube.svg'
 import Twitter from './twitter.svg'
 import RSS from './rss.svg'
+import Zenn from './zenn.svg'
 
 // Icons taken from: https://simpleicons.org/
 
@@ -12,6 +13,7 @@ const components = {
   youtube: Youtube,
   twitter: Twitter,
   rss: RSS,
+  zenn: Zenn,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {

@@ -3,6 +3,7 @@ name: kota
 avatar: /static/images/icon.png
 github: https://github.com/yashikota
 twitter: https://twitter.com/awwoit
+zenn: https://zenn.dev/yashikota
 rss: https://yashikota.com/feed.xml
 ---
 
@@ -16,4 +17,4 @@ C / JavaScript / TypeScript / Python
 
 ## 触れた技術
 
-React
+React / Next.js / MUI / material-table

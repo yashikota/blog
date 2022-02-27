@@ -9,4 +9,5 @@ export type AuthorFrontMatter = {
   linkedin: string
   github: string
   rss: string
+  zenn: string
 }

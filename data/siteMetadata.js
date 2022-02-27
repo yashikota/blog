@@ -11,6 +11,7 @@ const siteMetadata = {
   github: 'https://github.com/yashikota',
   twitter: 'https://twitter.com/awwoit',
   rss: 'https://yashikota.com/feed.xml',
+  zenn: 'https://zenn.dev/yashikota',
   locale: 'jp',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
