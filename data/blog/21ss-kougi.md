@@ -2,7 +2,7 @@
 title: 1年後期の授業感想
 date: 2022-3-02
 tags: ["授業感想"]
-draft: true
+draft: false
 layout: PostSimple
 ---
 
