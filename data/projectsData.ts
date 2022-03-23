@@ -11,12 +11,12 @@ const projectsData = [
     imgSrc: '/static/images/syllabus.webp',
     href: 'https://syllabus.oit.yashikota.com',
   },
-  {
-    title: 'OIT単位取得率チェッカー',
-    description: `2018年度以降の授業アンケート結果・単位取得率が確認できるアプリ。閲覧には学内のGoogleアカウントが必要`,
-    imgSrc: '/static/images/syllabus.webp',
-    href: 'https://tani.oit.yashikota.com',
-  },
+  // {
+  //   title: 'OIT単位取得率チェッカー',
+  //   description: `2018年度以降の授業アンケート結果・単位取得率が確認できるアプリ。閲覧には学内のGoogleアカウントが必要`,
+  //   imgSrc: '/static/images/syllabus.webp',
+  //   href: 'https://tani.oit.yashikota.com',
+  // },
 ]
 
 export default projectsData
