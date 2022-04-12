@@ -26,8 +26,3 @@ React / Next.js / MUI / material-table
 ## 情報処理技術者試験
 
 ITパスポート / 情報セキュリティマネジメント / 応用情報 / 情報処理安全確保支援士
-
-## 欲しい物リスト
-
-[欲しい物リスト](https://www.amazon.co.jp/hz/wishlist/dl/invite/idPxyoc?ref_=wl_share)  
-届いたものはレビューします
