@@ -2,14 +2,18 @@
 name: kota
 avatar: /static/images/icon.png
 github: https://github.com/yashikota
-twitter: https://twitter.com/awwoit
+twitter: https://twitter.com/yashikota
 zenn: https://zenn.dev/yashikota
 rss: https://yashikota.com/feed.xml
 ---
 
 ## 興味のある分野
 
-ゲーム業界 / プログラミング / ネットワーク / セキュリティ / フロントエンド / バックエンド / 電気工作物 / 電子工作
+ゲーム業界 / コンソールゲーム史  
+低レイヤー  
+フロントエンド / バックエンド  
+ネットワーク / セキュリティ  
+電気工作物 / 電子工作  
 
 ## やりたいこと
 
@@ -17,11 +21,15 @@ rss: https://yashikota.com/feed.xml
 
 ## 触れた言語
 
-C / JavaScript / TypeScript / Python
+C / C++ / Python  
+HTML / CSS / JavaScript / TypeScript  
+COBOL  
 
 ## 触れた技術
 
-React / Next.js / MUI / material-table
+UnrealEngine / Siv3D  
+React / Next.js / MUI  
+OpenCV / TensorFlow  
 
 ## 情報処理技術者試験
 
