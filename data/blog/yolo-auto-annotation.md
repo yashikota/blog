@@ -7,7 +7,7 @@ layout: PostSimple
 ---
 
 YOLOv5で大量にアノテーションする必要が出てきたので楽をするために半自動アノテーションツールを作成しました。  
-[リポジトリはこちらです](https://github.com/yashikota/auto-annotation)
+[リポジトリはこちらです](https://github.com/yashikota/auto-annotation)  
 自分用に作ったので操作性等は壊滅的ですが、汎用性はあると思います。  
 
 ## annotation.py
