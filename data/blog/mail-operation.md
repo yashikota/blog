@@ -29,7 +29,7 @@ GmailのSMTPサーバーを使用します。
 [Cloudflare Email Routing](https://www.cloudflare.com/products/email-routing/)
 というCloudflareのサービスを使用します。  
 このサービスは名前の通りメールを転送してくれるものです。  
-例えば```mail@example.com```のアドレスに対して送信されたメールを```hoge@freemailservice.com```に転送するような感じです。  
+例えば```mail@example.com```のアドレスに対して送信されたメールを```example@gmail.com```に転送するような感じです。  
 
 設定方法は
 [公式ドキュメント](https://developers.cloudflare.com/email-routing)
