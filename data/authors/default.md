@@ -8,30 +8,94 @@ zenn: https://zenn.dev/yashikota
 rss: https://yashikota.com/feed.xml
 ---
 
-## 興味のある分野
+# About
 
-ゲーム業界 / コンソールゲーム史  
-低レイヤー  
-フロントエンド / バックエンド  
-ネットワーク / セキュリティ  
-電気工作物 / 電子工作  
+## Interests
 
-## やりたいこと
+- GameDev
+- Systems Programming
+- AI
+- Frontend
+- Security
+- Electronics
 
-ゲーム制作 / 自作OS / 自作CPU / 電子工作
+and more...  
 
-## 触れた言語
+## Activities
 
-C / C++ / Python  
-HTML / CSS / JavaScript / TypeScript  
-COBOL  
+- [Security MiniCamp Online 2022](https://www.security-camp.or.jp/minicamp/online2022.html)
+- [MWS 2022](https://www.iwsec.org/mws/2022/)
 
-## 触れた技術
+## Skills
 
-UnrealEngine / Siv3D  
-React / Next.js / MUI  
-OpenCV / TensorFlow  
+### GameDev
 
-## 情報処理技術者試験
+|Technology|Skill|
+|----------|-----|
+|Unreal Engine|★☆☆☆☆|
+|Unity|★☆☆☆☆|
 
-ITパスポート / 情報セキュリティマネジメント / 応用情報 / 情報処理安全確保支援士
+### System Programming
+
+|Technology|Skill|
+|----------|-----|
+|C|★★★☆☆|
+|C++|★☆☆☆☆|
+|Rust|★☆☆☆☆|
+
+### AI
+
+|Technology|Skill|
+|----------|-----|
+|Python|★★★★☆|
+|Pytorch|★☆☆☆☆|
+
+### Frontend
+
+|Technology|Skill|
+|----------|-----|
+|HTML|★★★☆☆|
+|CSS|★★★☆☆|
+|JavaScript|★★★☆☆|
+|TypeScript|★★☆☆☆|
+|WebAssembly|★☆☆☆☆|
+|React|★★★☆☆|
+|Next.js|★★☆☆☆|
+|Vite|★★☆☆☆|
+|Deno|★★☆☆☆|
+|Astro|★☆☆☆☆|
+
+### Security
+
+|Technology|Skill|
+|----------|-----|
+|CTF|★☆☆☆☆|
+
+### Electronics
+
+|Technology|Skill|
+|----------|-----|
+|Arduino|★☆☆☆☆|
+|M5Stack|★★☆☆☆|
+
+### Other
+
+|Technology|Skill|
+|----------|-----|
+|Linux|★★★☆☆|
+|VSCode|★★★☆☆|
+|NeoVim|★☆☆☆☆|
+|Git|★★☆☆☆|
+|Github|★★★☆☆|
+|Docker|★☆☆☆☆|
+|Network|★★★☆☆|
+|Siv3D|★☆☆☆☆|
+|OpenCV|★★☆☆☆|
+
+## Qualifications
+
+- ITパスポート
+- 情報セキュリティマネジメント
+- 応用情報技術者
+- 情報処理安全確保支援士
+- TOEIC 510
