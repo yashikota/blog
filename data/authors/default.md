@@ -84,9 +84,9 @@ and more...
 |----------|-----|
 |Linux|★★★☆☆|
 |VSCode|★★★☆☆|
-|NeoVim|★☆☆☆☆|
+|Neovim|★☆☆☆☆|
 |Git|★★☆☆☆|
-|Github|★★★☆☆|
+|GitHub|★★★☆☆|
 |Docker|★☆☆☆☆|
 |Network|★★★☆☆|
 |Siv3D|★☆☆☆☆|
