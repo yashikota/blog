@@ -39,9 +39,9 @@ and more...
 
 |Technology|Skill|
 |----------|-----|
-|C|★★★☆☆|
-|C++|★☆☆☆☆|
-|Rust|★☆☆☆☆|
+|C|★★★★☆|
+|C++|★★☆☆☆|
+|Rust|★★☆☆☆|
 
 ### AI
 
@@ -63,7 +63,6 @@ and more...
 |Next.js|★★☆☆☆|
 |Vite|★★☆☆☆|
 |Deno|★★☆☆☆|
-|Astro|★☆☆☆☆|
 
 ### Security
 
@@ -75,21 +74,20 @@ and more...
 
 |Technology|Skill|
 |----------|-----|
-|Arduino|★☆☆☆☆|
+|Arduino|★★☆☆☆|
 |M5Stack|★★☆☆☆|
 
 ### Other
 
 |Technology|Skill|
 |----------|-----|
-|Linux|★★★☆☆|
-|VSCode|★★★☆☆|
-|Neovim|★☆☆☆☆|
-|Git|★★☆☆☆|
-|GitHub|★★★☆☆|
-|Docker|★☆☆☆☆|
+|Linux|★★★★☆|
+|VSCode|★★★★☆|
+|Neovim|★★☆☆☆|
+|Git|★★★☆☆|
+|GitHub|★★★★☆|
+|Docker|★★☆☆☆|
 |Network|★★★☆☆|
-|Siv3D|★☆☆☆☆|
 |OpenCV|★★☆☆☆|
 
 ## Qualifications
