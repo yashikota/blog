@@ -18,8 +18,8 @@ layout: PostSimple
 |-|-|
 | No | 0001 |  
 | Survey date | 2023/04/01 |  
-| Official site | <https://kernel.org> |  
-| Source code | <https://git.kernel.org> |  
+| Official site | https://kernel.org |  
+| Source code | https://git.kernel.org |  
 | Language | C |  
 | Category | OS, Linux |  
 | Release date | 1991/09/17 |  
