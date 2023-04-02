@@ -51,3 +51,22 @@ CやC++だけでなくGoやFortranなどにも対応している。
 
 ---
 
+## LLVM
+
+| title | contents |
+|-|-|
+| No | 0003 |  
+| Survey date | 2023/04/03 |  
+| Official site | https://llvm.org |  
+| Source code | https://github.com/llvm/llvm-project |  
+| Language | C++ |  
+| Category | Compiler, VM |  
+| Release date | 2003/10/25 |  
+| License | Apache License v2.0 |  
+| Status | Active |  
+
+GCCと双璧をなすコンパイラ。またコンパイラ基盤。  
+LLVM IRという中間言語に翻訳されてからターゲットの機械語に翻訳される。  
+そのため言語やアーキテクチャを問わず、様々なプラットフォームに対応できる。  
+
+---
