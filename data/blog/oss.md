@@ -70,3 +70,24 @@ LLVM IRという中間言語に翻訳されてからターゲットの機械語�
 そのため言語やアーキテクチャを問わず、様々なプラットフォームに対応できる。  
 
 ---
+
+## Python
+
+| title | contents |
+|-|-|
+| No | 0004 |  
+| Survey date | 2023/04/04 |  
+| Official site | https://python.org |  
+| Source code | https://github.com/python/cpython |  
+| Language | Python, C |  
+| Category | Programming language, Python |  
+| Release date | 1991/02/20 |  
+| License | Python Software Foundation License |  
+| Status | Active |  
+
+AIや科学技術計算をはじめとした幅広い分野で人気を誇る言語。  
+動的型付け言語であり、簡単で読みやすいコードが書きやすい。  
+また、標準ライブラリやサードパーティのライブラリが非常に充実している。  
+Pythonは言語仕様に基づいた実装がいくつかある。  
+Pythonソフトウェア財団が開発しているのはC言語で実装されたCPythonである。  
+他にコミュニティーが開発しているものとしてはPythonで実装されたPyPyや.NETで実装されたIronPython、Rustで実装されたRustPythonなどがある。  
