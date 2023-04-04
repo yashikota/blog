@@ -91,3 +91,27 @@ AIや科学技術計算をはじめとした幅広い分野で人気を誇る言
 Pythonは言語仕様に基づいた実装がいくつかある。  
 Pythonソフトウェア財団が開発しているのはC言語で実装されたCPythonである。  
 他にコミュニティーが開発しているものとしてはPythonで実装されたPyPyや.NETで実装されたIronPython、Rustで実装されたRustPythonなどがある。  
+
+---
+
+## Rust
+
+| title | contents |
+|-|-|
+| No | 0005 |  
+| Survey date | 2023/04/05 |  
+| Official site | https://rust-lang.org |  
+| Source code | https://github.com/rust-lang/rust |  
+| Language | Rust |  
+| Category | Programming language, Rust |  
+| Release date | 2015/04/15 |  
+| License | Apache License v2.0, MIT License |  
+| Status | Active |  
+
+言語仕様により安全性が強力に担保されており、メモリ安全性やスレッド安全性を目指して開発されている。  
+ガベージコレクションを持たず、C言語やC++に匹敵する速度で動作する。  
+近年生まれた言語ということもあり文法がモダンで、パッケージマネージャーやリンター、フォーマッターなどを標準で備えている。  
+またStack Overflowが発表している最も愛されている言語ランキングでは2016年以来7年連続で首位を獲得している。  
+
+---
+
