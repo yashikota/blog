@@ -136,3 +136,24 @@ Linuxのディストリビューションでは標準のブラウザとしてよ
 
 ---
 
+## Chromium
+
+| title | contents |
+|-|-|
+| No | 0007 |  
+| Survey date | 2023/04/07 |  
+| Official site | https://www.chromium.org |  
+| Source code | https://source.chromium.org/chromium |  
+| Language | C++, Assembly, Rust |  
+| Category | Web browser |  
+| Release date | 2008/09/02 |  
+| License | BSD-3 |  
+| Status | Active |  
+
+Googleが開発を主導しており、Google Chromeのベースとなっているソフトウェア。  
+Chrome以外にもEdgeやVivaldi、Operaなどもベースにしている。  
+タブごとにプロセスが独立するマルチプロセスアーキテクチャに基づいて設計されており、安定性が高い。  
+またサンドボックスやセーフブラウジング保護機能などを兼ね備える。  
+
+---
+
