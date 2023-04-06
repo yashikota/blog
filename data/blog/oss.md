@@ -115,3 +115,24 @@ Pythonソフトウェア財団が開発しているのはC言語で実装され�
 
 ---
 
+## Firefox
+
+| title | contents |
+|-|-|
+| No | 0006 |  
+| Survey date | 2023/04/06 |  
+| Official site | https://www.mozilla.org/firefox |  
+| Source code | https://searchfox.org/mozilla-central/source |  
+| Language | C, C++, Assembly, Rust |  
+| Category | Web browser |  
+| Release date | 2002/09/23 |  
+| License | Mozilla Public License |  
+| Status | Active |  
+
+Mozillaが開発する高機能なブラウザ。  
+Rustで開発されたレンダリングエンジンや高いカスタマイズ性、プライバシー保護性などの特徴がある。  
+Linuxのディストリビューションでは標準のブラウザとしてよく用いられている。  
+またTor Browserのベースにもなっている。  
+
+---
+
