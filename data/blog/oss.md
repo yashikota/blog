@@ -157,3 +157,21 @@ Chrome以外にもEdgeやVivaldi、Operaなどもベースにしている。
 
 ---
 
+## WebKit
+
+| title | contents |
+|-|-|
+| No | 0008 |  
+| Survey date | 2023/04/08 |  
+| Official site | https://webkit.org |  
+| Source code | https://github.com/WebKit/WebKit |  
+| Language | C++ |  
+| Category | Rendering engine |  
+| Release date | 1998/11/04 |  
+| License | LGPL, BSD licenses |  
+| Status | Active |  
+
+Appleが開発を主導するクロスプラットフォームのレンダリングエンジン。  
+過去にはGoogleも開発に参加しておりChromeにも採用されていたが、開発方針の不一致によりGoogleのレンダリングエンジンはBlinkに分裂した。  
+
+---
