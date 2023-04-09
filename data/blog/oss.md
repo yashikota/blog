@@ -175,3 +175,22 @@ Appleが開発を主導するクロスプラットフォームのレンダリン
 過去にはGoogleも開発に参加しておりChromeにも採用されていたが、開発方針の不一致によりGoogleのレンダリングエンジンはBlinkに分裂した。  
 
 ---
+
+## GNU Core Utilities
+
+| title | contents |
+|-|-|
+| No | 0009 |  
+| Survey date | 2023/04/09 |  
+| Official site | https://www.gnu.org/software/coreutils |  
+| Source code | https://git.savannah.gnu.org/cgit/coreutils.git |  
+| Language | C |  
+| Category | Shell, Tool |  
+| Release date | 2002/09 |  
+| License | GPLv3 |  
+| Status | Active |  
+
+lsやcat、mkdir、rm等のUnix系OSで必須とも言えるコマンドツールを集めたソフトウェア。  
+元々はfileutils、textutils、shellutilsに分かれていたが2002年9月にCore Utilitiesへ統合された。  
+
+---
