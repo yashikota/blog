@@ -194,3 +194,24 @@ lsやcat、mkdir、rm等のUnix系OSで必須とも言えるコマンドツー�
 元々はfileutils、textutils、shellutilsに分かれていたが2002年9月にCore Utilitiesへ統合された。  
 
 ---
+
+## Visual Studio Code
+
+| title | contents |
+|-|-|
+| No | 0010 |  
+| Survey date | 2023/04/10 |  
+| Official site | https://code.visualstudio.com |  
+| Source code | https://github.com/microsoft/vscode |  
+| Language | TypeScript |  
+| Category | Text Editor |  
+| Release date | 2015/04/29 |  
+| License | MIT License |  
+| Status | Active |  
+
+マイクロソフトが開発を主導するエディター。  
+テキストの編集だけではなくデバッグやGit、コード補完、シンタックスハイライト、アドオンによる機能などの様々な機能を備える。  
+StackOverflowの調査では最も人気のあるエディター。  
+
+---
+
