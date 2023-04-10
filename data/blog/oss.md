@@ -215,3 +215,22 @@ StackOverflowの調査では最も人気のあるエディター。
 
 ---
 
+## Git
+
+| title | contents |
+|-|-|
+| No | 0011 |  
+| Survey date | 2023/04/11 |  
+| Official site | https://git-scm.com |  
+| Source code | https://git.kernel.org/pub/scm/git/git.git |  
+| Language | C, Shell Script |  
+| Category | Version Control System |  
+| Release date | 2005/04/07 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+分散型のバージョン管理システム。  
+Linuxの開発では商用のバージョン管理システムが用いられていたが、トラブルが有りその環境が使えなくなったため開発された。  
+特に動作速度が重視されている。  
+
+---
