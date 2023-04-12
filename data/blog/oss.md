@@ -234,3 +234,22 @@ Linuxの開発では商用のバージョン管理システムが用いられて
 特に動作速度が重視されている。  
 
 ---
+
+## Gitlab
+
+| title | contents |
+|-|-|
+| No | 0012 |  
+| Survey date | 2023/04/12 |  
+| Official site | https://about.gitlab.com |  
+| Source code | https://gitlab.com/gitlab-org/gitlab-foss |  
+| Language | Ruby, JavaScript |  
+| Category | Git |  
+| Release date | 2011 |  
+| License | MIT License |  
+| Status | Active |  
+
+Gitリポジトリマネージャーで、「ギットラブ」と発音する。  
+SaaSとしてgitlab.comが提供されている。  
+
+---
