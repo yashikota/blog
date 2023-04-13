@@ -253,3 +253,22 @@ Gitリポジトリマネージャーで、「ギットラブ」と発音する�
 SaaSとしてgitlab.comが提供されている。  
 
 ---
+
+## LibreOffice
+
+| title | contents |
+|-|-|
+| No | 0013 |  
+| Survey date | 2023/04/13 |  
+| Official site | https://www.libreoffice.org |  
+| Source code | https://git.libreoffice.org/core |  
+| Language | C++ |  
+| Category | Application |  
+| Release date | 2011/01/25 |  
+| License | GPLv3 |  
+| Status | Active |  
+
+Microsoft Officeと互換性を持つオフィスソフトウェア。  
+ワードプロセッサのWriter、表計算のCalc、プレゼンテーションのImpress、グラフィックスのDraw、データーベースのBase、数式作成のMathから構成されている。  
+
+---
