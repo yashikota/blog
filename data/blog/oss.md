@@ -291,3 +291,23 @@ Wikipediaに代表されるWikiソフトウェア。
 大規模WebサイトであるWikipediaでも使用されるため、数TBのコンテンツと数十万ビュー/毎秒にも耐えられるような設計になっている。  
 
 ---
+
+## Bash
+
+| title | contents |
+|-|-|
+| No | 0015 |  
+| Survey date | 2023/04/15 |  
+| Official site | https://www.gnu.org/software/bash |  
+| Source code | https://git.savannah.gnu.org/cgit/bash.git |  
+| Language | C |  
+| Category | Shell |  
+| Release date | 1989/06/08 |  
+| License | GPLv3 |  
+| Status | Active |  
+
+ほとんどのLinuxディストリビューションでデフォルトに設定されているシェル。  
+Bourne Shellを置き換えるという目標のもと開発された。  
+bashという名前はBourne-again shellに由来する。  
+
+---
