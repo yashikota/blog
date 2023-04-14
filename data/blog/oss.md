@@ -272,3 +272,22 @@ Microsoft Officeと互換性を持つオフィスソフトウェア。
 ワードプロセッサのWriter、表計算のCalc、プレゼンテーションのImpress、グラフィックスのDraw、データーベースのBase、数式作成のMathから構成されている。  
 
 ---
+
+## MediaWiki
+
+| title | contents |
+|-|-|
+| No | 0014 |  
+| Survey date | 2023/04/14 |  
+| Official site | https://www.mediawiki.org/wiki/MediaWiki |  
+| Source code | https://gerrit.wikimedia.org/g/mediawiki/core |  
+| Language | PHP |  
+| Category | Wiki |  
+| Release date | 2002/01/25 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+Wikipediaに代表されるWikiソフトウェア。  
+大規模WebサイトであるWikipediaでも使用されるため、数TBのコンテンツと数十万ビュー/毎秒にも耐えられるような設計になっている。  
+
+---
