@@ -311,3 +311,22 @@ Bourne Shellを置き換えるという目標のもと開発された。
 bashという名前はBourne-again shellに由来する。  
 
 ---
+
+## glibc
+
+| title | contents |
+|-|-|
+| No | 0016 |  
+| Survey date | 2023/04/16 |  
+| Official site | https://www.gnu.org/software/libc |  
+| Source code | https://sourceware.org/git/glibc.git |  
+| Language | C |  
+| Category | Library |  
+| Release date | 1987 |  
+| License | LGPL2.1 |  
+| Status | Active |  
+
+標準Cライブラリのデファクトスタンダード。  
+動的ライブラリであり、`/lib/libc.so.6`に存在する。  
+
+---
