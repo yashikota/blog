@@ -349,3 +349,23 @@ bashという名前はBourne-again shellに由来する。
 Alpine Linuxなどでは標準Cライブラリとして採用されている。  
 
 ---
+
+
+## Android
+
+| title | contents |
+|-|-|
+| No | 0018 |  
+| Survey date | 2023/04/18 |  
+| Official site | https://www.android.com |  
+| Source code | https://android.googlesource.com |  
+| Language | Java, C, C++ |  
+| Category | OS |  
+| Release date | 2008/09/23 |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+Googleが開発したLinuxベースのモバイル用OS。  
+Android OSが搭載された端末は30億台を超え、世界一普及しているOSとなっている。  
+
+---
