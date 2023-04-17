@@ -330,3 +330,22 @@ bashという名前はBourne-again shellに由来する。
 動的ライブラリであり、`/lib/libc.so.6`に存在する。  
 
 ---
+
+## musl
+
+| title | contents |
+|-|-|
+| No | 0017 |  
+| Survey date | 2023/04/17 |  
+| Official site | https://musl.libc.org |  
+| Source code | https://git.musl-libc.org/cgit/musl |  
+| Language | C |  
+| Category | Library |  
+| Release date | 2011/02/11 |  
+| License | MIT License |  
+| Status | Active |  
+
+軽量で効率的な標準Cライブラリ。  
+Alpine Linuxなどでは標準Cライブラリとして採用されている。  
+
+---
