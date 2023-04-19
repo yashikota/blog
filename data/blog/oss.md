@@ -350,7 +350,6 @@ Alpine Linuxなどでは標準Cライブラリとして採用されている。
 
 ---
 
-
 ## Android
 
 | title | contents |
@@ -367,5 +366,24 @@ Alpine Linuxなどでは標準Cライブラリとして採用されている。
 
 Googleが開発したLinuxベースのモバイル用OS。  
 Android OSが搭載された端末は30億台を超え、世界一普及しているOSとなっている。  
+
+---
+
+## Cygwin
+
+| title | contents |
+|-|-|
+| No | 0019 |  
+| Survey date | 2023/04/19 |  
+| Official site | https://www.cygwin.com |  
+| Source code | https://cygwin.com/git/newlib-cygwin.git |  
+| Language | C, C++ |  
+| Category | Compatibility layer |  
+| Release date | 1995/10/18 |  
+| License | GPLv3 |  
+| Status | Active |  
+
+WindowsにUnixの互換レイヤーを提供するソフトウェア。  
+仮想化ではないため軽量で高速に動作する。  
 
 ---
