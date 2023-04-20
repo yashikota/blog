@@ -402,7 +402,26 @@ WindowsにUnixの互換レイヤーを提供するソフトウェア。
 | License | Apache License |  
 | Status | Active |  
 
-最も人気のあるWebサーバー用ソフトウェア。  
+人気のあるWebサーバー用ソフトウェア。  
 このソフトウェアを開発・支援するためにApache財団が発足した。  
+
+---
+
+## Nginx
+
+| title | contents |
+|-|-|
+| No | 0021 |  
+| Survey date | 2023/04/21 |  
+| Official site | https://nginx.org |  
+| Source code | https://hg.nginx.org/nginx |  
+| Language | C |  
+| Category | Web Server |  
+| Release date | 2004/10/04 |  
+| License | FreeBSD License |  
+| Status | Active |  
+
+Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリを誇るサーバー用ソフトウェア。  
+2021年のWebサーバの市場シェア調査結果によると、Nginxが首位、Apacheが2位となっている。  
 
 ---
