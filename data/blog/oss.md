@@ -387,3 +387,22 @@ WindowsにUnixの互換レイヤーを提供するソフトウェア。
 仮想化ではないため軽量で高速に動作する。  
 
 ---
+
+## Apache HTTP Server
+
+| title | contents |
+|-|-|
+| No | 0020 |  
+| Survey date | 2023/04/20 |  
+| Official site | https://httpd.apache.org |  
+| Source code | http://svn.apache.org/repos/asf/httpd/httpd |  
+| Language | C |  
+| Category | Web Server |  
+| Release date | 1995 |  
+| License | Apache License |  
+| Status | Active |  
+
+最も人気のあるWebサーバー用ソフトウェア。  
+このソフトウェアを開発・支援するためにApache財団が発足した。  
+
+---
