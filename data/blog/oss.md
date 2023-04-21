@@ -425,3 +425,22 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 2021年のWebサーバの市場シェア調査結果によると、Nginxが首位、Apacheが2位となっている。  
 
 ---
+
+## WordPress
+
+| title | contents |
+|-|-|
+| No | 0022 |  
+| Survey date | 2023/04/22 |  
+| Official site | https://wordpress.org |  
+| Source code | https://core.trac.wordpress.org/browser |  
+| Language | PHP |  
+| Category | CMS |  
+| Release date | 2003/05/27 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+動的なブログを作成できるブログソフトウェア。  
+テンプレート、プラグインも豊富で初心者でも簡単にブログを始めることができる。  
+
+---
