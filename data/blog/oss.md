@@ -444,3 +444,22 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 テンプレート、プラグインも豊富で初心者でも簡単にブログを始めることができる。  
 
 ---
+
+## MySQL
+
+| title | contents |
+|-|-|
+| No | 0023 |  
+| Survey date | 2023/04/23 |  
+| Official site | https://www.mysql.com |  
+| Source code | https://github.com/mysql/mysql-server |  
+| Language | C, C++ |  
+| Category | Database |  
+| Release date | 1995/05/27 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+オープンソースのDBでは最も人気を誇る。  
+現在はOracleが主に開発を行っている。  
+
+---
