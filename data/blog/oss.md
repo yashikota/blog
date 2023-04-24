@@ -463,3 +463,22 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 現在はOracleが主に開発を行っている。  
 
 ---
+
+## PostgreSQL
+
+| title | contents |
+|-|-|
+| No | 0024 |  
+| Survey date | 2023/04/24 |  
+| Official site | https://www.postgresql.org |  
+| Source code | https://git.postgresql.org/gitweb/?p=postgresql.git |  
+| Language | C |  
+| Category | Database |  
+| Release date | 1996/07/08 |  
+| License | PostgreSQL License |  
+| Status | Active |  
+
+拡張性とSQLへの準拠が特徴のRDBMS。  
+元はPostquelというクエリ言語を用いており、名前もPOSTGRESだったがSQLサポートに伴いPostgreSQLと改名された。  
+
+---
