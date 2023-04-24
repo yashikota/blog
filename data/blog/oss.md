@@ -482,3 +482,22 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 元はPostquelというクエリ言語を用いており、名前もPOSTGRESだったがSQLサポートに伴いPostgreSQLと改名された。  
 
 ---
+
+## MariaDB
+
+| title | contents |
+|-|-|
+| No | 0025 |  
+| Survey date | 2023/04/25 |  
+| Official site | https://mariadb.org |  
+| Source code | https://github.com/MariaDB/server |  
+| Language | C, C++ |  
+| Category | Database |  
+| Release date | 2009/10/29 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+MySQLがオラクルに買収されたため、MySQLの作者がフォークして作ったもの。  
+名前のMariaは作者の娘の名前に由来している。  
+
+---
