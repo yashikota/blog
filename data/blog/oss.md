@@ -501,3 +501,22 @@ MySQLがオラクルに買収されたため、MySQLの作者がフォークし�
 名前のMariaは作者の娘の名前に由来している。  
 
 ---
+
+## Docker
+
+| title | contents |
+|-|-|
+| No | 0026 |  
+| Survey date | 2023/04/26 |  
+| Official site | https://www.docker.com |  
+| Source code | https://github.com/moby/moby |  
+| Language | Go |  
+| Category | Virtualization |  
+| Release date | 2013/03/13 |  
+| License | Apache License 2.0 |  
+| Status | Active |  
+
+コンテナ型仮想化環境を提供するデファクトスタンダードなソフトウェア。  
+Dockerコンテナにより環境の差異を気にせずに開発できる。  
+
+---
