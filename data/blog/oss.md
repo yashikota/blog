@@ -520,3 +520,23 @@ MySQLがオラクルに買収されたため、MySQLの作者がフォークし�
 Dockerコンテナにより環境の差異を気にせずに開発できる。  
 
 ---
+
+## React
+
+| title | contents |
+|-|-|
+| No | 0027 |  
+| Survey date | 2023/04/27 |  
+| Official site | https://react.dev |  
+| Source code | https://github.com/facebook/react |  
+| Language | JavaScript |  
+| Category | Web Library |  
+| Release date | 2013/05/29 |  
+| License | MIT License |  
+| Status | Active |  
+
+SPAを構築できるUIライブラリ。  
+JSのUIライブラリとしてはデファクトスタンダードの立ち位置にある。  
+
+---
+
