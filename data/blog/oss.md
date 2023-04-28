@@ -560,3 +560,22 @@ Reactと同じくSPAを構築できるUIライブラリ。
 
 ---
 
+## Vite
+
+| title | contents |
+|-|-|
+| No | 0029 |  
+| Survey date | 2023/04/29 |  
+| Official site | https://vitejs.dev |  
+| Source code | https://github.com/vitejs/vite |  
+| Language | TypeScript |  
+| Category | Web Development Tool |  
+| Release date | 2020/04/20 |  
+| License | MIT License |  
+| Status | Active |  
+
+ローカル開発環境のサーバーを構築するソフトウェアで、高速に動作しホットリロードにも対応している。  
+ヴィートと発音する。  
+
+---
+
