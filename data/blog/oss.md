@@ -540,3 +540,23 @@ JSのUIライブラリとしてはデファクトスタンダードの立ち位�
 
 ---
 
+## Vue.js
+
+| title | contents |
+|-|-|
+| No | 0028 |  
+| Survey date | 2023/04/28 |  
+| Official site | https://vuejs.org |  
+| Source code | https://github.com/vuejs/core |  
+| Language | TypeScript |  
+| Category | Web Library |  
+| Release date | 2014/02 |  
+| License | MIT License |  
+| Status | Active |  
+
+Reactと同じくSPAを構築できるUIライブラリ。  
+他のJavaScriptライブラリを使用するプロジェクトへの導入において、容易になるように設計されている。  ]
+また作者のEvan YouはViteも開発している。  
+
+---
+
