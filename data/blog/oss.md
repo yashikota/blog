@@ -597,3 +597,22 @@ Java用のプロジェクト管理ツール。
 ソースコードのコンパイル、テスト、Javadoc生成、テストレポート生成、プロジェクトサイト生成、JAR生成、サーバへのデプロイ、WAR, EARファイル生成など様々な機能が用意されている。  
 
 ---
+
+## Gradle
+
+| title | contents |
+|-|-|
+| No | 0031 |  
+| Survey date | 2023/04/31 |  
+| Official site | https://gradle.org |  
+| Source code | https://github.com/gradle/gradle |  
+| Language | Java, Groovy |  
+| Category | Build Tool |  
+| Release date |  |  
+| License | Apache License 2.0 |  
+| Status | Active |  
+
+Groovyという言語を使用する自動化システム。  
+Apache Mavenと違って増分ビルドが可能。  
+
+---
