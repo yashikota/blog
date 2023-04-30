@@ -579,3 +579,21 @@ Reactと同じくSPAを構築できるUIライブラリ。
 
 ---
 
+## Apache Maven
+
+| title | contents |
+|-|-|
+| No | 0030 |  
+| Survey date | 2023/04/30 |  
+| Official site | https://maven.apache.org |  
+| Source code | https://mvnrepository.com/artifact/org.apache.maven |  
+| Language | Java |  
+| Category | Build Tool |  
+| Release date | 2004/06/13 |  
+| License | Apache License 2.0 |  
+| Status | Active |  
+
+Java用のプロジェクト管理ツール。  
+ソースコードのコンパイル、テスト、Javadoc生成、テストレポート生成、プロジェクトサイト生成、JAR生成、サーバへのデプロイ、WAR, EARファイル生成など様々な機能が用意されている。  
+
+---
