@@ -603,16 +603,54 @@ Java用のプロジェクト管理ツール。
 | title | contents |
 |-|-|
 | No | 0031 |  
-| Survey date | 2023/04/31 |  
+| Survey date | 2023/05/01 |  
 | Official site | https://gradle.org |  
 | Source code | https://github.com/gradle/gradle |  
 | Language | Java, Groovy |  
 | Category | Build Tool |  
-| Release date |  |  
+| Release date | 2008/04/21 |  
 | License | Apache License 2.0 |  
 | Status | Active |  
 
 Groovyという言語を使用する自動化システム。  
 Apache Mavenと違って増分ビルドが可能。  
+
+---
+
+## SQLite
+
+| title | contents |
+|-|-|
+| No | 0032 |  
+| Survey date | 2023/04/31 |  
+| Official site | https://sqlite.org/index.html |  
+| Source code | https://www.sqlite.org/src/doc/trunk/README.md |  
+| Language | C |  
+| Category | Database |  
+| Release date | 2000/08/17 |  
+| License | Public domain |  
+| Status | Active |  
+
+一般的なDBと違い、データの保存に単一のファイルのみを使用するRDBMS。  
+そのため軽量であり、様々な用途で使用されている。  
+
+---
+
+## FFmpeg
+
+| title | contents |
+|-|-|
+| No | 0033 |  
+| Survey date | 2023/05/02 |  
+| Official site | https://ffmpeg.org |  
+| Source code | https://git.ffmpeg.org/ffmpeg.git |  
+| Language | C, Assembly |  
+| Category | Multimedia framework |  
+| Release date | 2000/12/20 |  
+| License | LGPL2.1 |  
+| Status | Active |  
+
+マルチメディアデータを記録、変換、再生するソフトウェア。  
+様々なコーデックに対応しており、幅広く利用されている。  
 
 ---
