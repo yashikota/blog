@@ -654,3 +654,23 @@ Apache Mavenと違って増分ビルドが可能。
 様々なコーデックに対応しており、幅広く利用されている。  
 
 ---
+
+## Blender
+
+| title | contents |
+|-|-|
+| No | 0034 |  
+| Survey date | 2023/05/03 |  
+| Official site | https://www.blender.org |  
+| Source code | https://projects.blender.org/blender/blender |  
+| Language | C, C++, Python |  
+| Category | 3D |  
+| Release date | 1994/01/02 |  
+| License | GPLv3 |  
+| Status | Active |  
+
+3DCG製作や2Dアニメーションを作れるソフトウェア。  
+多機能かつ軽量なためアマチュアならずプロにも普及している。  
+またPythonで操作することもできる。  
+
+---
