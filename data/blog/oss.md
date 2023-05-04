@@ -674,3 +674,22 @@ Apache Mavenと違って増分ビルドが可能。
 またPythonで操作することもできる。  
 
 ---
+
+## KiCad
+
+| title | contents |
+|-|-|
+| No | 0035 |  
+| Survey date | 2023/05/04 |  
+| Official site | https://www.kicad.org |  
+| Source code | https://gitlab.com/kicad/code/kicad |  
+| Language | C, C++ |  
+| Category | EDA |  
+| Release date | 1992 |  
+| License | GPLv3 |  
+| Status | Active |  
+
+電子回路設計のためのCADツール。  
+回路図エディタの他、PCBレイアウトや3Dビューワーなどがある。  
+
+---
