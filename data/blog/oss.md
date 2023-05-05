@@ -693,3 +693,22 @@ Apache Mavenと違って増分ビルドが可能。
 回路図エディタの他、PCBレイアウトや3Dビューワーなどがある。  
 
 ---
+
+## Audacity
+
+| title | contents |
+|-|-|
+| No | 0036 |  
+| Survey date | 2023/05/05 |  
+| Official site | https://www.audacityteam.org |  
+| Source code | https://github.com/audacity/audacity |  
+| Language | C, C++ |  
+| Category | Audio Editor |  
+| Release date | 2000/05/28 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+オーディオファイルや録音した音声の編集やミキシング、フィルターの適応などができる多機能なオーディオエディター。  
+フォーク版として、[Dark Audacity](http://www.darkaudacity.com)がある。  
+
+---
