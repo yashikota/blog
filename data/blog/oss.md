@@ -712,3 +712,21 @@ Apache Mavenと違って増分ビルドが可能。
 フォーク版として、[Dark Audacity](http://www.darkaudacity.com)がある。  
 
 ---
+
+## Next.js
+
+| title | contents |
+|-|-|
+| No | 0037 |  
+| Survey date | 2023/05/06 |  
+| Official site | https://nextjs.org |  
+| Source code | https://github.com/vercel/next.js |  
+| Language | JavaScript, TypeScript |  
+| Category | Web framefork |  
+| Release date | 2016/10/25 |  
+| License | MIT |  
+| Status | Active |  
+
+Reactベースのフレームワークであり、サーバーサイドレンダリング(SSR)やスタティックジェネレート(SG)、ファイルベースのルーティングなど豊富な機能を提供する。  
+
+---
