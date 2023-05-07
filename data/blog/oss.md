@@ -730,3 +730,22 @@ Apache Mavenと違って増分ビルドが可能。
 Reactベースのフレームワークであり、サーバーサイドレンダリング(SSR)やスタティックジェネレート(SG)、ファイルベースのルーティングなど豊富な機能を提供する。  
 
 ---
+
+## Angular
+
+| title | contents |
+|-|-|
+| No | 0038 |  
+| Survey date | 2023/05/07 |  
+| Official site | https://angular.io |  
+| Source code | https://github.com/angular/angular |  
+| Language | TypeScript |  
+| Category | Web framework |  
+| Release date | 2016/09/14 |  
+| License | MIT |  
+| Status | Active |  
+
+Googleが開発を主導するWebフレームワーク。  
+元々はAngularJSと呼ばれていたが、パフォーマンスの不満と使いにくい欠点があったため一から作り直しAngularとなった。  
+
+---
