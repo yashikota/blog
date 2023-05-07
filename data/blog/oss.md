@@ -749,3 +749,22 @@ Googleが開発を主導するWebフレームワーク。
 元々はAngularJSと呼ばれていたが、パフォーマンスの不満と使いにくい欠点があったため一から作り直しAngularとなった。  
 
 ---
+
+## Node.js
+
+| title | contents |
+|-|-|
+| No | 0039 |  
+| Survey date | 2023/05/08 |  
+| Official site | https://nodejs.org |  
+| Source code | https://github.com/nodejs/node |  
+| Language | JavaScript, C++ |  
+| Category | Runtime environment |  
+| Release date | 2009/05/27 |  
+| License | MIT |  
+| Status | Active |  
+
+サーバーサイドのJavaScript実行環境。  
+だが最近ではクライアントサイドでのJavaScript開発環境としても幅広く用いられる。  
+
+---
