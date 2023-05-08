@@ -768,3 +768,22 @@ Googleが開発を主導するWebフレームワーク。
 だが最近ではクライアントサイドでのJavaScript開発環境としても幅広く用いられる。  
 
 ---
+
+## Deno
+
+| title | contents |
+|-|-|
+| No | 0040 |  
+| Survey date | 2023/05/09 |  
+| Official site | https://deno.com |  
+| Source code | https://github.com/denoland/deno |  
+| Language | Rust, JavaScript, TypeScript |  
+| Category | Runtime environment |  
+| Release date | 2018/05/13 |  
+| License | MIT |  
+| Status | Active |  
+
+Node.jsの作者がNode.jsの反省点を生かし作った新たなJavaScript実行環境で、モダンかつセキュアな改善が盛り込まれている。  
+初期はNode.jsとは非互換だったが、2022年頃から互換対応し始めた。  
+
+---
