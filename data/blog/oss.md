@@ -787,3 +787,22 @@ Node.jsの作者がNode.jsの反省点を生かし作った新たなJavaScript�
 初期はNode.jsとは非互換だったが、2022年頃から互換対応し始めた。  
 
 ---
+
+## Bun
+
+| title | contents |
+|-|-|
+| No | 0041 |  
+| Survey date | 2023/05/10 |  
+| Official site | https://bun.sh |  
+| Source code | https://github.com/oven-sh/bun |  
+| Language | Zig, C++, JavaScript |  
+| Category | Runtime environment |  
+| Release date | 2021/09/14 |  
+| License | MIT |  
+| Status | Active |  
+
+Node.jsと互換性をもつJavaScript実行環境。  
+Zigという言語で実装されており動作が高速。  
+
+---
