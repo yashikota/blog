@@ -806,3 +806,22 @@ Node.jsと互換性をもつJavaScript実行環境。
 Zigという言語で実装されており動作が高速。  
 
 ---
+
+## V8
+
+| title | contents |
+|-|-|
+| No | 0042 |  
+| Survey date | 2023/05/11 |  
+| Official site | https://v8.dev |  
+| Source code | https://chromium.googlesource.com/v8/v8 |  
+| Language | C++ |  
+| Category | JavaScript engine |  
+| Release date | 2008/09/02 |  
+| License | MIT |  
+| Status | Active |  
+
+Googleが開発を主導するJIT型のJavaScriptエンジン。  
+Chromiumの他Node.jsやDenoにも採用されている。  
+
+---
