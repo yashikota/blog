@@ -825,3 +825,22 @@ Googleが開発を主導するJIT型のJavaScriptエンジン。
 Chromiumの他Node.jsやDenoにも採用されている。  
 
 ---
+
+## QEMU
+
+| title | contents |
+|-|-|
+| No | 0043 |  
+| Survey date | 2023/05/12 |  
+| Official site | https://www.qemu.org |  
+| Source code | https://gitlab.com/qemu-project/qemu |  
+| Language | C |  
+| Category | Emulator |  
+| Release date | 2003/ |  
+| License | GPLv2 |  
+| Status | Active |  
+
+プロセッサーエミュレーターで、x86やPowerPC、ARMなど様々なアーキテクチャに対応している。  
+AndroidのSDKにも利用されている。  
+
+---
