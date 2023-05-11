@@ -1,8 +1,8 @@
 const projectsData = [
   {
     title: 'OITシラバスアプリ',
-    description: `大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ。インクリメンタルサーチやフィルタリング、複数の年度に対応
-    使用技術 : React, TypeScript, MUI, material-table, Python, Github Actions`,
+    description: `大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ。インクリメンタルサーチやフィルタリングに対応
+    使用技術 : React, TypeScript, MUI, Python, Github Actions`,
     imgSrc: '/static/images/syllabus.webp',
     href: 'https://syllabus.oit.yashikota.com',
   },
@@ -12,6 +12,20 @@ const projectsData = [
     使用技術 : React, TypeScript, MUI`,
     imgSrc: '/static/images/tools.webp',
     href: 'https://oit.yashikota.com',
+  },
+  {
+    title: `FunBook`,
+    description: `PythonのSum関数はJavaScriptではどうやって書くんだろうの疑問に答えてくれる検索サイト
+    使用技術 : React, MUI, Go, ChatGPT API`,
+    imgSrc: '/static/images/funbook.png',
+    href: 'https://funbook.pages.dev',
+  },
+  {
+    title: 'td4-py',
+    description: `Pythonで書かれたTD4のエミュレーター
+    使用技術 : Python`,
+    imgSrc: '/static/images/td4-py.gif',
+    href: 'https://github.com/yashikota/td4-py',
   },
   {
     title: 'JANCodeジェネレーター',
