@@ -844,3 +844,22 @@ Chromiumの他Node.jsやDenoにも採用されている。
 AndroidのSDKにも利用されている。  
 
 ---
+
+## KVM
+
+| title | contents |
+|-|-|
+| No | 0044 |  
+| Survey date | 2023/05/13 |  
+| Official site | https://www.linux-kvm.org/page/Main_Page |  
+| Source code | https://git.kernel.org/pub/scm/virt/kvm/kvm.git |  
+| Language | C |  
+| Category | Hypervisor |  
+| Release date | 2006/10 |  
+| License | GPL |  
+| Status | Active |  
+
+正式にはKernel-based Virtual Machineと言い、カーネルベースの仮想化モジュール。  
+KVM自体はエミュレーションは全く実行しないため、エミュレーションの実行にQEMUと組み合わせて使用されることが多い。  
+
+---
