@@ -863,3 +863,22 @@ AndroidのSDKにも利用されている。
 KVM自体はエミュレーションは全く実行しないため、エミュレーションの実行にQEMUと組み合わせて使用されることが多い。  
 
 ---
+
+## NumPy
+
+| title | contents |
+|-|-|
+| No | 0045 |  
+| Survey date | 2023/05/14 |  
+| Official site | https://numpy.org |  
+| Source code | github.com/numpy/numpy |  
+| Language | Python, C |  
+| Category | Numerical analysis |  
+| Release date | 1995 |  
+| License | BSD |  
+| Status | Active |  
+
+Pythonにて数値計算を行うライブラリで、高水準の数学計算関数を数多く提供する。  
+NumPy自体はC言語で書かれているため動作は高速。  
+
+---
