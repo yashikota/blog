@@ -882,3 +882,22 @@ Pythonにて数値計算を行うライブラリで、高水準の数学計算�
 NumPy自体はC言語で書かれているため動作は高速。  
 
 ---
+
+## SciPy
+
+| title | contents |
+|-|-|
+| No | 0046 |  
+| Survey date | 2023/05/15 |  
+| Official site | https://scipy.org |  
+| Source code | https://github.com/scipy/scipy |  
+| Language | Python, Fortran, C |  
+| Category | Numerical analysis |  
+| Release date | 2001 |  
+| License | BSD |  
+| Status | Active |  
+
+Pythonにて高度な数学、科学、工業計算を扱うライブラリ。  
+統計、最適化、積分、線形代数、フーリエ変換、信号・イメージ処理、遺伝的アルゴリズム、常微分方程式ソルバ、特殊関数、その他のモジュールを提供している。  
+
+---
