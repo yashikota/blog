@@ -901,3 +901,22 @@ Pythonにて高度な数学、科学、工業計算を扱うライブラリ。
 統計、最適化、積分、線形代数、フーリエ変換、信号・イメージ処理、遺伝的アルゴリズム、常微分方程式ソルバ、特殊関数、その他のモジュールを提供している。  
 
 ---
+
+## scikit-learn
+
+| title | contents |
+|-|-|
+| No | 0047 |  
+| Survey date | 2023/05/16 |  
+| Official site | https://scikit-learn.org |  
+| Source code | https://github.com/scikit-learn/scikit-learn |  
+| Language | Python |  
+| Category | Machine learning library |  
+| Release date | 2007/1 |  
+| License | New BSD |  
+| Status | Active |  
+
+教師あり学習、教師なし学習に対応した機械学習ライブラリ。  
+SVM、ランダムフォレスト、GBなどの回帰、分類、クラスタリングアルゴリズムを備えている。  
+
+---
