@@ -920,3 +920,22 @@ Pythonにて高度な数学、科学、工業計算を扱うライブラリ。
 SVM、ランダムフォレスト、GBなどの回帰、分類、クラスタリングアルゴリズムを備えている。  
 
 ---
+
+## PyTorch
+
+| title | contents |
+|-|-|
+| No | 0048 |  
+| Survey date | 2023/05/17 |  
+| Official site | https://pytorch.org |  
+| Source code | https://github.com/pytorch/pytorch |  
+| Language | Python, C++ |  
+| Category | Machine learning library |  
+| Release date | 2016/09 |  
+| License | BSD-3 |  
+| Status | Active |  
+
+TorchというLua製の機械学習ライブラリをPythonに移植したもの。  
+Facebookが開発を主導しており、機械学習ライブラリのシェア率ではNo1。  
+
+---
