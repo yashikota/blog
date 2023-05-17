@@ -939,3 +939,22 @@ TorchというLua製の機械学習ライブラリをPythonに移植したもの
 Facebookが開発を主導しており、機械学習ライブラリのシェア率ではNo1。  
 
 ---
+
+## TensorFlow
+
+| title | contents |
+|-|-|
+| No | 0049 |  
+| Survey date | 2023/05/18 |  
+| Official site | https://tensorflow.org |  
+| Source code | https://github.com/tensorflow/tensorflow |  
+| Language | Python, C++ |  
+| Category | Machine learning library |  
+| Release date | 2015/11/09 |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+Googleが開発を主導する機械学習ライブラリ。  
+運用のサポートが手厚く、ビスネス用途で数多く使われている。  
+
+---
