@@ -958,3 +958,23 @@ Googleが開発を主導する機械学習ライブラリ。
 運用のサポートが手厚く、ビスネス用途で数多く使われている。  
 
 ---
+
+## Keras
+
+| title | contents |
+|-|-|
+| No | 0050 |  
+| Survey date | 2023/05/19 |  
+| Official site | https://keras.io |  
+| Source code | https://github.com/keras-team/keras |  
+| Language | Python |  
+| Category | Machine learning library |  
+| Release date | 2015/03/27 |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+
+最小限、拡張可能性に重きをおいた機械学習ライブラリ。  
+メンテナがGoogleのエンジニアであり、TensorFlow 2から同梱されるようになった。  
+
+---
