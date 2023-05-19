@@ -973,8 +973,26 @@ Googleが開発を主導する機械学習ライブラリ。
 | License | Apache 2.0 |  
 | Status | Active |  
 
-
 最小限、拡張可能性に重きをおいた機械学習ライブラリ。  
 メンテナがGoogleのエンジニアであり、TensorFlow 2から同梱されるようになった。  
+
+---
+
+## Chainer
+
+| title | contents |
+|-|-|
+| No | 0051 |  
+| Survey date | 2023/05/20 |  
+| Official site | https://chainer.org |  
+| Source code | https://github.com/chainer/chainer |  
+| Language | Python, C++ |  
+| Category | Machine learning library |  
+| Release date | 2015/06/09 |  
+| License | MIT |  
+| Status | Inactive |  
+
+日本のスタートアップ企業PFNが開発していた機械学習ライブラリ。  
+Pytorchにも大きな影響を与えたが、英語圏の勢いに負けてしまい開発終了することになった。  
 
 ---
