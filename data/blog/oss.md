@@ -996,3 +996,22 @@ Googleが開発を主導する機械学習ライブラリ。
 Pytorchにも大きな影響を与えたが、英語圏の勢いに負けてしまい開発終了することになった。  
 
 ---
+
+## ncurses
+
+| title | contents |
+|-|-|
+| No | 0052 |  
+| Survey date | 2023/05/21 |  
+| Official site | https://invisible-island.net/ncurses/announce.html |  
+| Source code | https://invisible-mirror.net/archives/ncurses |  
+| Language | C |  
+| Category | Widget toolkit |  
+| Release date | 1993 |  
+| License | X11 |  
+| Status | Active |  
+
+TUIを提供するライブラリ。  
+cursesの代替を目指して開発され今では最も普及している。  
+
+---
