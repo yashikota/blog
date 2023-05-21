@@ -1015,3 +1015,22 @@ TUIを提供するライブラリ。
 cursesの代替を目指して開発され今では最も普及している。  
 
 ---
+
+## JAX
+
+| title | contents |
+|-|-|
+| No | 0053 |  
+| Survey date | 2023/05/22 |  
+| Official site | https://jax.readthedocs.io/en/latest |  
+| Source code | https://github.com/google/jax |  
+| Language | Python |  
+| Category | Machine learning library |  
+| Release date | 2022/05/16 |  
+| License | Apache2.0 |  
+| Status | Active |  
+
+Googleが開発を行う機械学習ライブラリ。  
+標準でGPUにも対応しており、自動微分やJITコンパイラ、SPMDプログラミングなどの便利な機能を提供している。  
+
+---
