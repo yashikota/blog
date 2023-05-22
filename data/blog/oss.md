@@ -1034,3 +1034,23 @@ Googleが開発を行う機械学習ライブラリ。
 標準でGPUにも対応しており、自動微分やJITコンパイラ、SPMDプログラミングなどの便利な機能を提供している。  
 
 ---
+
+## Icarus Verilog
+
+| title | contents |
+|-|-|
+| No | 0054 |  
+| Survey date | 2023/05/23 |  
+| Official site | https://bleyer.org/icarus |  
+| Source code | https://github.com/steveicarus/iverilog |  
+| Language | C++, Verilog, C |  
+| Category | 	Verilog Simulator |  
+| Release date | 1998 |  
+| License | GPL2.0 |  
+| Status | Active |  
+
+Verilogシミュレーター。  
+System Verilogにも対応している。  
+また、GNUwaveなどで波形を見ることもできる。  
+
+---
