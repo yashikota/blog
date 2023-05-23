@@ -1044,7 +1044,7 @@ Googleが開発を行う機械学習ライブラリ。
 | Official site | https://bleyer.org/icarus |  
 | Source code | https://github.com/steveicarus/iverilog |  
 | Language | C++, Verilog, C |  
-| Category | 	Verilog Simulator |  
+| Category | Verilog Simulator |  
 | Release date | 1998 |  
 | License | GPL2.0 |  
 | Status | Active |  
@@ -1052,5 +1052,24 @@ Googleが開発を行う機械学習ライブラリ。
 Verilogシミュレーター。  
 System Verilogにも対応している。  
 また、GNUwaveなどで波形を見ることもできる。  
+
+---
+
+## Simple DirectMedia Layer
+
+| title | contents |
+|-|-|
+| No | 0055 |  
+| Survey date | 2023/05/24 |  
+| Official site | https://www.libsdl.org |  
+| Source code | https://github.com/libsdl-org/SDL |  
+| Language | C, C++ |  
+| Category | Multimedia library |  
+| Release date | 1998 |  
+| License | Zlib license |  
+| Status | Active |  
+
+グラフィックの描画やサウンドの再生などのAPIを提供するマルチメディアライブラリ。  
+JavaやRust、phpなどの様々な言語のラッパーが存在する。  
 
 ---
