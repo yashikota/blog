@@ -1073,3 +1073,22 @@ System Verilogにも対応している。
 JavaやRust、phpなどの様々な言語のラッパーが存在する。  
 
 ---
+
+## wgpu
+
+| title | contents |
+|-|-|
+| No | 0056 |  
+| Survey date | 2023/05/25 |  
+| Official site | https://wgpu.rs |  
+| Source code | https://github.com/gfx-rs/wgpu |  
+| Language | Rust |  
+| Category | Graphics API |  
+| Release date | 2019 |  
+| License | Apache-2.0, MIT licenses |  
+| Status | Active |  
+
+Rustで書かれたWebGPUのAPI。  
+WebGPUベースなのでクロスプラットフォームであり、様々なグラフィックAPIに変換される。  
+
+---
