@@ -1092,3 +1092,22 @@ Rustで書かれたWebGPUのAPI。
 WebGPUベースなのでクロスプラットフォームであり、様々なグラフィックAPIに変換される。  
 
 ---
+
+## OpenCV
+
+| title | contents |
+|-|-|
+| No | 0057 |  
+| Survey date | 2023/05/26 |  
+| Official site | https://opencv.org |  
+| Source code | https://github.com/opencv/opencv |  
+| Language | C++ |  
+| Category | Image processing library |  
+| Release date | 2000/06 |  
+| License | Apache2.0 |  
+| Status | Active |  
+
+元々はIntelが開発していた画像処理ライブラリ。  
+Pythonでもopencv-pythonとしてパッケージが提供されている。  
+
+---
