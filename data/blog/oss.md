@@ -1111,3 +1111,23 @@ WebGPUベースなのでクロスプラットフォームであり、様々な�
 Pythonでもopencv-pythonとしてパッケージが提供されている。  
 
 ---
+
+## Rye
+
+| title | contents |
+|-|-|
+| No | 0058 |  
+| Survey date | 2023/05/27 |  
+| Official site | https://rye-up.com |  
+| Source code | https://github.com/mitsuhiko/rye |  
+| Language | Rust |  
+| Category | Package manager |  
+| Release date | 2023/05/17 |  
+| License | MIT |  
+| Status | Active |  
+
+Flaskの開発者が開発中のRust製Pythonパッケージマネージャー。  
+Pythonのバージョン管理からvirtualenvsの設定まで行える。  
+pyenv + poetry のようなイメージ。  
+
+---
