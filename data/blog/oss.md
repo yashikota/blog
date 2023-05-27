@@ -1131,3 +1131,22 @@ Pythonのバージョン管理からvirtualenvsの設定まで行える。
 pyenv + poetry のようなイメージ。  
 
 ---
+
+## Poetry
+
+| title | contents |
+|-|-|
+| No | 0059 |  
+| Survey date | 2023/05/28 |  
+| Official site | https://python-poetry.org |  
+| Source code | https://github.com/python-poetry/poetry |  
+| Language | Python |  
+| Category | Package manager |  
+| Release date | 2018/03/01 |  
+| License | MIT |  
+| Status | Active |  
+
+pyproject.tomlに対応したパッケージマネージャー。  
+pipと違い自動的に仮想環境が構築される。  
+
+---
