@@ -1150,3 +1150,22 @@ pyproject.tomlに対応したパッケージマネージャー。
 pipと違い自動的に仮想環境が構築される。  
 
 ---
+
+## Pipenv
+
+| title | contents |
+|-|-|
+| No | 0060 |  
+| Survey date | 2023/05/29 |  
+| Official site | https://pipenv.pypa.io |  
+| Source code | https://github.com/pypa/pipenv |  
+| Language | Python |  
+| Category | Package manager |  
+| Release date | 2017/01/21 |  
+| License | MIT |  
+| Status | Active |  
+
+ PyPA (Python Packaging Authority) というコミュニティが開発しているパッケージマネージャー。  
+ Pipfileという独自のファイルで依存関係を管理する。  
+
+---
