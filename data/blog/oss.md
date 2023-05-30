@@ -1169,3 +1169,22 @@ pipと違い自動的に仮想環境が構築される。
  Pipfileという独自のファイルで依存関係を管理する。  
 
 ---
+
+## pyenv
+
+| title | contents |
+|-|-|
+| No | 0061 |  
+| Survey date | 2023/05/30 |  
+| Official site | https://github.com/pyenv/pyenv |  
+| Source code | https://github.com/pyenv/pyenv |  
+| Language | Python |  
+| Category | Environment manager |  
+| Release date | 2011/10/02 |  
+| License | MIT |  
+| Status | Active |  
+
+ Pythonのバージョンの切り替えを簡単に行えるツール。  
+ ディレクトリごとにバージョンを切り替えることもできる。  
+
+---
