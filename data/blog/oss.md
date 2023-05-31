@@ -1188,3 +1188,22 @@ pipと違い自動的に仮想環境が構築される。
  ディレクトリごとにバージョンを切り替えることもできる。  
 
 ---
+
+## ruff
+
+| title | contents |
+|-|-|
+| No | 0062 |  
+| Survey date | 2023/05/31 |  
+| Official site | https://beta.ruff.rs |  
+| Source code | https://github.com/charliermarsh/ruff |  
+| Language | Rust |  
+| Category | Linter |  
+| Release date | 2022/08/30 |  
+| License | MIT |  
+| Status | Active |  
+
+Rustで書かれたPythonのリンター。  
+flake8に比べても格段に早い。  
+
+---
