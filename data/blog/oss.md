@@ -1207,3 +1207,25 @@ Rustで書かれたPythonのリンター。
 flake8に比べても格段に早い。  
 
 ---
+
+## flake8
+
+| title | contents |
+|-|-|
+| No | 0063 |  
+| Survey date | 2023/06/01 |  
+| Official site | https://flake8.pycqa.org |  
+| Source code | https://github.com/PyCQA/flake8 |  
+| Language | Python |  
+| Category | Linter |  
+| Release date | 2010/02/15 |  
+| License | MIT |  
+| Status | Active |  
+
+PyPAが管理しているプロジェクト。  
+以下の3つのツールから構成されている。  
+- pyflakes    : コードのエラーチェック  
+- pycodestyle : PEP8に準拠しているかチェック  
+- mccabe      : 循環的複雑度のチェック  
+
+---
