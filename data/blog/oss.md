@@ -1229,3 +1229,22 @@ PyPAが管理しているプロジェクト。
 - mccabe      : 循環的複雑度のチェック  
 
 ---
+
+## pytest
+
+| title | contents |
+|-|-|
+| No | 0064 |  
+| Survey date | 2023/06/02 |  
+| Official site | https://docs.pytest.org |  
+| Source code | https://github.com/pytest-dev/pytest |  
+| Language | Python |  
+| Category | Testing framework |  
+| Release date | 2007/01 |  
+| License | MIT |  
+| Status | Active |  
+
+ユニットテスト、統合テスト、E2Eテスト、機能テストを実行できるフレームワーク。  
+現在主流なフレームワークであり、標準ライブラリであるunittestより便利。  
+
+---
