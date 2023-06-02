@@ -1248,3 +1248,22 @@ PyPAが管理しているプロジェクト。
 現在主流なフレームワークであり、標準ライブラリであるunittestより便利。  
 
 ---
+
+## mypy
+
+| title | contents |
+|-|-|
+| No | 0065 |  
+| Survey date | 2023/06/03 |  
+| Official site | https://mypy-lang.org |  
+| Source code | https://github.com/python/mypy |  
+| Language | Python |  
+| Category | Type checker |  
+| Release date | 2009/09/09 |  
+| License | MIT |  
+| Status | Active |  
+
+Pythonで静的型検査が行えるライブラリ。  
+コードに型ヒントを付与する必要がある。  
+
+---
