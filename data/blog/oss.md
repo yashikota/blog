@@ -1267,3 +1267,22 @@ Pythonで静的型検査が行えるライブラリ。
 コードに型ヒントを付与する必要がある。  
 
 ---
+
+## OpenAL Soft
+
+| title | contents |
+|-|-|
+| No | 0066 |  
+| Survey date | 2023/06/04 |  
+| Official site | https://openal-soft.org |  
+| Source code | https://github.com/kcat/openal-soft |  
+| Language | C++ |  
+| Category | Sound library |  
+| Release date | 2007/12/15 |  
+| License | GPLv2 |  
+| Status | Active |  
+
+Open ALというクロスプラットフォームのオーディオAPIを実装しているライブラリ。  
+3Dオーディオを表現することができる。  
+
+---
