@@ -1286,3 +1286,22 @@ Open ALというクロスプラットフォームのオーディオAPIを実装�
 3Dオーディオを表現することができる。  
 
 ---
+
+## Lightweight Java Game Library
+
+| title | contents |
+|-|-|
+| No | 0067 |  
+| Survey date | 2023/06/05 |  
+| Official site | https://www.lwjgl.org |  
+| Source code | https://github.com/LWJGL/lwjgl3 |  
+| Language | Java |  
+| Category | Game library |  
+| Release date | 2007/02/04 |  
+| License | BSD |  
+| Status | Active |  
+
+OpenGL/Vulkan, OpenAL, OpenCLをJavaから扱えるようにしたライブラリ。  
+高いパフォーマンスと型安全で使いやすいAPIを提供する。  
+
+---
