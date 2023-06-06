@@ -1305,3 +1305,21 @@ OpenGL/Vulkan, OpenAL, OpenCLをJavaから扱えるようにしたライブラ�
 高いパフォーマンスと型安全で使いやすいAPIを提供する。  
 
 ---
+
+## tox
+
+| title | contents |
+|-|-|
+| No | 0068 |  
+| Survey date | 2023/06/06 |  
+| Official site | https://tox.wiki |  
+| Source code | https://github.com/tox-dev/tox |  
+| Language | Python |  
+| Category | Test command line tool |  
+| Release date | 2010/07/12 |  
+| License | MIT |  
+| Status | Active |  
+
+複数のバージョンのPythonでテストを行えるようにするライブラリー。  
+
+---
