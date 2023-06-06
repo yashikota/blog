@@ -1323,3 +1323,23 @@ OpenGL/Vulkan, OpenAL, OpenCLをJavaから扱えるようにしたライブラ�
 複数のバージョンのPythonでテストを行えるようにするライブラリー。  
 
 ---
+
+## black
+
+| title | contents |
+|-|-|
+| No | 0069 |  
+| Survey date | 2023/06/07 |  
+| Official site | https://black.readthedocs.io |  
+| Source code | https://github.com/psf/black |  
+| Language | Python |  
+| Category | Formatter |  
+| Release date | 2018/03/15 |  
+| License | MIT |  
+| Status | Active |  
+
+pep8に準拠したフォーマットに整形してくれるフォーマッター。  
+設定項目が1行あたりの文字数の変更しかない。  
+チーム内でフォーマッターの設定を議論する必要がないので効率的。  
+
+---
