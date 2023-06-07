@@ -1343,3 +1343,22 @@ pep8に準拠したフォーマットに整形してくれるフォーマッタ�
 チーム内でフォーマッターの設定を議論する必要がないので効率的。  
 
 ---
+
+## isort
+
+| title | contents |
+|-|-|
+| No | 0070 |  
+| Survey date | 2023/06/08 |  
+| Official site | https://pycqa.github.io/isort |  
+| Source code | https://github.com/PyCQA/isort |  
+| Language | Python |  
+| Category | Formatter |  
+| Release date | 2013/09/05 |  
+| License | MIT |  
+| Status | Active |  
+
+import文をPEP8に準拠した適切な順番に並び替えるフォーマッター。  
+よくblackやruffと組み合わせて使用する。  
+
+---
