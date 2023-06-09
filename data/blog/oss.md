@@ -1362,3 +1362,22 @@ import文をPEP8に準拠した適切な順番に並び替えるフォーマッ�
 よくblackやruffと組み合わせて使用する。  
 
 ---
+
+## pysen
+
+| title | contents |
+|-|-|
+| No | 0071 |  
+| Survey date | 2023/06/09 |  
+| Official site | https://github.com/pfnet/pysen |  
+| Source code | https://github.com/pfnet/pysen |  
+| Language | Python |  
+| Category | Utility |  
+| Release date | 2021/05/22 |  
+| License | MIT |  
+| Status | Active |  
+
+flake8、mypy、black 、isortのlint、formatを一度に実行できるライブラリ。  
+全て.pyproject.tomlに設定を記述するため設定ファイルがたくさん生成されない。  
+
+---
