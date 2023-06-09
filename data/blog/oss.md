@@ -1381,3 +1381,22 @@ flake8、mypy、black 、isortのlint、formatを一度に実行できるライ�
 全て.pyproject.tomlに設定を記述するため設定ファイルがたくさん生成されない。  
 
 ---
+
+## Wasmtime
+
+| title | contents |
+|-|-|
+| No | 0072 |  
+| Survey date | 2023/06/10 |  
+| Official site | https://wasmtime.dev |  
+| Source code | https://github.com/bytecodealliance/wasmtime |  
+| Language | Rust |  
+| Category | Wasm runtime |  
+| Release date | 2020/02/26 |  
+| License | MIT |  
+| Status | Active |  
+
+WASIと呼ばれるブラウザ外でWasmを実行するAPIを実装するWASMランタイム。  
+Wasmの仕様を決めているBytecode Allianceが開発を行っている。  
+
+---
