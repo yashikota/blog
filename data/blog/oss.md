@@ -1400,3 +1400,22 @@ WASIと呼ばれるブラウザ外でWasmを実行するAPIを実装するWASM�
 Wasmの仕様を決めているBytecode Allianceが開発を行っている。  
 
 ---
+
+## Wasmer
+
+| title | contents |
+|-|-|
+| No | 0073 |  
+| Survey date | 2023/06/11 |  
+| Official site | https://wasmer.io |  
+| Source code | https://github.com/wasmerio/wasmer |  
+| Language | Rust |  
+| Category | Wasm runtime |  
+| Release date | 2018/11/24 |  
+| License | MIT |  
+| Status | Active |  
+
+WASIをサポートするWasmランタイム。  
+Wasmtimeと比べて高速に動作したり、機能が豊富。  
+
+---
