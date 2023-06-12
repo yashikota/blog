@@ -1419,3 +1419,22 @@ WASIをサポートするWasmランタイム。
 Wasmtimeと比べて高速に動作したり、機能が豊富。  
 
 ---
+
+## POV-Ray
+
+| title | contents |
+|-|-|
+| No | 0074 |  
+| Survey date | 2023/06/12 |  
+| Official site | https://www.povray.org/ |  
+| Source code | https://github.com/POV-Ray/povray |  
+| Language | C++ |  
+| Category | Ray tracer |  
+| Release date | 1991/07/29 |  
+| License | AGPL3.0 |  
+| Status | Active |  
+
+Persistence of Vision Raytracerの略であり、ポヴレイと読まれる。  
+3Dレンダリングエンジンの1つで、数学的なモデリングにも対応している。  
+
+---
