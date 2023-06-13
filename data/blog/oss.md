@@ -1426,7 +1426,7 @@ Wasmtimeと比べて高速に動作したり、機能が豊富。
 |-|-|
 | No | 0074 |  
 | Survey date | 2023/06/12 |  
-| Official site | https://www.povray.org/ |  
+| Official site | https://www.povray.org |  
 | Source code | https://github.com/POV-Ray/povray |  
 | Language | C++ |  
 | Category | Ray tracer |  
@@ -1436,5 +1436,24 @@ Wasmtimeと比べて高速に動作したり、機能が豊富。
 
 Persistence of Vision Raytracerの略であり、ポヴレイと読まれる。  
 3Dレンダリングエンジンの1つで、数学的なモデリングにも対応している。  
+
+---
+
+## Recoil
+
+| title | contents |
+|-|-|
+| No | 0075 |  
+| Survey date | 2023/06/13 |  
+| Official site | https://recoiljs.org |  
+| Source code | https://github.com/facebookexperimental/Recoil |  
+| Language | JavaScript |  
+| Category | State management library  |  
+| Release date | 2020/05/31 |  
+| License | MIT |  
+| Status | Active |  
+
+Facebook謹製のReact用状態管理ライブラリ。  
+ただしまだ安定化はされていない。  
 
 ---
