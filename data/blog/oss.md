@@ -1476,3 +1476,22 @@ Pythonで高速に動作するウェブサーバー用フレームワーク。
 OpenAPIドキュメントが自動生成されるなど便利な機能が豊富。  
 
 ---
+
+## Django
+
+| title | contents |
+|-|-|
+| No | 0077 |  
+| Survey date | 2023/06/15 |  
+| Official site | https://www.djangoproject.com |  
+| Source code | https://github.com/django/django |  
+| Language | Python |  
+| Category | Web framework |  
+| Release date | 2005/07/21  |  
+| License | MIT |  
+| Status | Active |  
+
+model–template–viewsアーキテクチャを採用するWebフレームワーク。  
+機能がとても豊富で、InstagramやBitbucketなどにも採用されている。  
+
+---
