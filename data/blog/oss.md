@@ -1457,3 +1457,22 @@ Facebook謹製のReact用状態管理ライブラリ。
 ただしまだ安定化はされていない。  
 
 ---
+
+## FastAPI
+
+| title | contents |
+|-|-|
+| No | 0076 |  
+| Survey date | 2023/06/14 |  
+| Official site | https://fastapi.tiangolo.com/lo |  
+| Source code | https://github.com/tiangolo/fastapi |  
+| Language | Python |  
+| Category | Web framework |  
+| Release date | 2018/12/05 |  
+| License | MIT |  
+| Status | Active |  
+
+Pythonで高速に動作するウェブサーバー用フレームワーク。  
+OpenAPIドキュメントが自動生成されるなど便利な機能が豊富。  
+
+---
