@@ -1495,3 +1495,22 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 機能がとても豊富で、InstagramやBitbucketなどにも採用されている。  
 
 ---
+
+## Flask
+
+| title | contents |
+|-|-|
+| No | 0078 |  
+| Survey date | 2023/06/16 |  
+| Official site | https://flask.palletsprojects.com |  
+| Source code | https://github.com/pallets/flask |  
+| Language | Python |  
+| Category | Web framework |  
+| Release date | 2010/04/01 |  
+| License | BSDv3 |  
+| Status | Active |  
+
+軽量なWebフレームワーク。  
+元はエイプリルフールのジョークとして作成されたが、その後本格的なアプリケーションとして成長した。  
+
+---
