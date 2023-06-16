@@ -1514,3 +1514,22 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 元はエイプリルフールのジョークとして作成されたが、その後本格的なアプリケーションとして成長した。  
 
 ---
+
+## Bottle
+
+| title | contents |
+|-|-|
+| No | 0079 |  
+| Survey date | 2023/06/17 |  
+| Official site | https://bottlepy.org |  
+| Source code | https://github.com/bottlepy/bottle |  
+| Language | Python |  
+| Category | Web framework |  
+| Release date | 2009/07/11 |  
+| License | MIT |  
+| Status | Active |  
+
+シンプルかつ軽量なWebフレームワーク。  
+単一のファイルのみで構成され、標準ライブラリ以外に依存関係を持たない。  
+
+---
