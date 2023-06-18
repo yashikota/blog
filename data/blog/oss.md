@@ -1533,3 +1533,22 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 単一のファイルのみで構成され、標準ライブラリ以外に依存関係を持たない。  
 
 ---
+
+## GLFW
+
+| title | contents |
+|-|-|
+| No | 0080 |  
+| Survey date | 2023/06/18 |  
+| Official site | https://www.glfw.org |  
+| Source code | https://github.com/glfw/glfw |  
+| Language | C |  
+ | Category | Graphic API |  
+| Release date | 2002/02/17 |  
+| License | Zlib |  
+| Status | Active |  
+
+OpenGLをベースとした軽量なグラフィックAPI。  
+キーボードやマウス、ジョイスティックなどもサポートする。  
+
+---
