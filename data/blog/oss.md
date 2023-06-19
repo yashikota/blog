@@ -1543,12 +1543,31 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 | Official site | https://www.glfw.org |  
 | Source code | https://github.com/glfw/glfw |  
 | Language | C |  
- | Category | Graphic API |  
+| Category | Graphic API |  
 | Release date | 2002/02/17 |  
 | License | Zlib |  
 | Status | Active |  
 
 OpenGLをベースとした軽量なグラフィックAPI。  
 キーボードやマウス、ジョイスティックなどもサポートする。  
+
+---
+
+## pybind11
+
+| title | contents |
+|-|-|
+| No | 0081 |  
+| Survey date | 2023/06/19 |  
+| Official site | https://pybind11.readthedocs.io |  
+| Source code | https://github.com/pybind/pybind11 |  
+| Language | C++, Python |  
+| Category | Head library |  
+| Release date |  |  
+| License | BSD |  
+| Status | Active |  
+
+CやC++で実装したプログラムをPythonから簡単に使えるようにするライブラリ。  
+パッケージ化することもできる。  
 
 ---
