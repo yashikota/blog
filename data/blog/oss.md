@@ -22,7 +22,6 @@ layout: PostSimple
 | Source code | https://git.kernel.org |  
 | Language | C |  
 | Category | OS, Linux |  
-| Release date | 1991/09/17 |  
 | License | GPL-2.0 |  
 | Status | Active |  
 
@@ -41,7 +40,6 @@ LinuxをカーネルとしたディストリビューションとしてはUbuntu
 | Source code | https://gcc.gnu.org/git/gcc.git |  
 | Language | C, C++ |  
 | Category | Compiler, GNU |  
-| Release date | 1987/03/22 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -61,7 +59,6 @@ CやC++だけでなくGoやFortranなどにも対応している。
 | Source code | https://github.com/llvm/llvm-project |  
 | Language | C++ |  
 | Category | Compiler, VM |  
-| Release date | 2003/10/25 |  
 | License | Apache License v2.0 |  
 | Status | Active |  
 
@@ -81,7 +78,6 @@ LLVM IRという中間言語に翻訳されてからターゲットの機械語�
 | Source code | https://github.com/python/cpython |  
 | Language | Python, C |  
 | Category | Programming language, Python |  
-| Release date | 1991/02/20 |  
 | License | Python Software Foundation License |  
 | Status | Active |  
 
@@ -104,7 +100,6 @@ Pythonソフトウェア財団が開発しているのはC言語で実装され�
 | Source code | https://github.com/rust-lang/rust |  
 | Language | Rust |  
 | Category | Programming language, Rust |  
-| Release date | 2015/04/15 |  
 | License | Apache License v2.0, MIT License |  
 | Status | Active |  
 
@@ -125,7 +120,6 @@ Pythonソフトウェア財団が開発しているのはC言語で実装され�
 | Source code | https://searchfox.org/mozilla-central/source |  
 | Language | C, C++, Assembly, Rust |  
 | Category | Web browser |  
-| Release date | 2002/09/23 |  
 | License | Mozilla Public License |  
 | Status | Active |  
 
@@ -146,7 +140,6 @@ Linuxのディストリビューションでは標準のブラウザとしてよ
 | Source code | https://source.chromium.org/chromium |  
 | Language | C++, Assembly, Rust |  
 | Category | Web browser |  
-| Release date | 2008/09/02 |  
 | License | BSD-3 |  
 | Status | Active |  
 
@@ -167,7 +160,6 @@ Chrome以外にもEdgeやVivaldi、Operaなどもベースにしている。
 | Source code | https://github.com/WebKit/WebKit |  
 | Language | C++ |  
 | Category | Rendering engine |  
-| Release date | 1998/11/04 |  
 | License | LGPL, BSD licenses |  
 | Status | Active |  
 
@@ -186,7 +178,6 @@ Appleが開発を主導するクロスプラットフォームのレンダリン
 | Source code | https://git.savannah.gnu.org/cgit/coreutils.git |  
 | Language | C |  
 | Category | Shell, Tool |  
-| Release date | 2002/09 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -205,7 +196,6 @@ lsやcat、mkdir、rm等のUnix系OSで必須とも言えるコマンドツー�
 | Source code | https://github.com/microsoft/vscode |  
 | Language | TypeScript |  
 | Category | Text Editor |  
-| Release date | 2015/04/29 |  
 | License | MIT License |  
 | Status | Active |  
 
@@ -225,7 +215,6 @@ StackOverflowの調査では最も人気のあるエディター。
 | Source code | https://git.kernel.org/pub/scm/git/git.git |  
 | Language | C, Shell Script |  
 | Category | Version Control System |  
-| Release date | 2005/04/07 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -245,7 +234,6 @@ Linuxの開発では商用のバージョン管理システムが用いられて
 | Source code | https://gitlab.com/gitlab-org/gitlab-foss |  
 | Language | Ruby, JavaScript |  
 | Category | Git |  
-| Release date | 2011 |  
 | License | MIT License |  
 | Status | Active |  
 
@@ -264,7 +252,6 @@ SaaSとしてgitlab.comが提供されている。
 | Source code | https://git.libreoffice.org/core |  
 | Language | C++ |  
 | Category | Application |  
-| Release date | 2011/01/25 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -283,7 +270,6 @@ Microsoft Officeと互換性を持つオフィスソフトウェア。
 | Source code | https://gerrit.wikimedia.org/g/mediawiki/core |  
 | Language | PHP |  
 | Category | Wiki |  
-| Release date | 2002/01/25 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -302,7 +288,6 @@ Wikipediaに代表されるWikiソフトウェア。
 | Source code | https://git.savannah.gnu.org/cgit/bash.git |  
 | Language | C |  
 | Category | Shell |  
-| Release date | 1989/06/08 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -322,7 +307,6 @@ bashという名前はBourne-again shellに由来する。
 | Source code | https://sourceware.org/git/glibc.git |  
 | Language | C |  
 | Category | Library |  
-| Release date | 1987 |  
 | License | LGPL2.1 |  
 | Status | Active |  
 
@@ -341,7 +325,6 @@ bashという名前はBourne-again shellに由来する。
 | Source code | https://git.musl-libc.org/cgit/musl |  
 | Language | C |  
 | Category | Library |  
-| Release date | 2011/02/11 |  
 | License | MIT License |  
 | Status | Active |  
 
@@ -360,7 +343,6 @@ Alpine Linuxなどでは標準Cライブラリとして採用されている。
 | Source code | https://android.googlesource.com |  
 | Language | Java, C, C++ |  
 | Category | OS |  
-| Release date | 2008/09/23 |  
 | License | Apache 2.0 |  
 | Status | Active |  
 
@@ -379,7 +361,6 @@ Android OSが搭載された端末は30億台を超え、世界一普及して�
 | Source code | https://cygwin.com/git/newlib-cygwin.git |  
 | Language | C, C++ |  
 | Category | Compatibility layer |  
-| Release date | 1995/10/18 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -398,7 +379,6 @@ WindowsにUnixの互換レイヤーを提供するソフトウェア。
 | Source code | http://svn.apache.org/repos/asf/httpd/httpd |  
 | Language | C |  
 | Category | Web Server |  
-| Release date | 1995 |  
 | License | Apache License |  
 | Status | Active |  
 
@@ -417,7 +397,6 @@ WindowsにUnixの互換レイヤーを提供するソフトウェア。
 | Source code | https://hg.nginx.org/nginx |  
 | Language | C |  
 | Category | Web Server |  
-| Release date | 2004/10/04 |  
 | License | FreeBSD License |  
 | Status | Active |  
 
@@ -436,7 +415,6 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 | Source code | https://core.trac.wordpress.org/browser |  
 | Language | PHP |  
 | Category | CMS |  
-| Release date | 2003/05/27 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -455,7 +433,6 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 | Source code | https://github.com/mysql/mysql-server |  
 | Language | C, C++ |  
 | Category | Database |  
-| Release date | 1995/05/27 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -474,7 +451,6 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 | Source code | https://git.postgresql.org/gitweb/?p=postgresql.git |  
 | Language | C |  
 | Category | Database |  
-| Release date | 1996/07/08 |  
 | License | PostgreSQL License |  
 | Status | Active |  
 
@@ -493,7 +469,6 @@ Apache HTTP Serverに比べて高い処理性能、並列性能、省メモリ�
 | Source code | https://github.com/MariaDB/server |  
 | Language | C, C++ |  
 | Category | Database |  
-| Release date | 2009/10/29 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -512,7 +487,6 @@ MySQLがオラクルに買収されたため、MySQLの作者がフォークし�
 | Source code | https://github.com/moby/moby |  
 | Language | Go |  
 | Category | Virtualization |  
-| Release date | 2013/03/13 |  
 | License | Apache License 2.0 |  
 | Status | Active |  
 
@@ -531,7 +505,6 @@ Dockerコンテナにより環境の差異を気にせずに開発できる。
 | Source code | https://github.com/facebook/react |  
 | Language | JavaScript |  
 | Category | Web Library |  
-| Release date | 2013/05/29 |  
 | License | MIT License |  
 | Status | Active |  
 
@@ -550,7 +523,6 @@ JSのUIライブラリとしてはデファクトスタンダードの立ち位�
 | Source code | https://github.com/vuejs/core |  
 | Language | TypeScript |  
 | Category | Web Library |  
-| Release date | 2014/02 |  
 | License | MIT License |  
 | Status | Active |  
 
@@ -570,7 +542,6 @@ Reactと同じくSPAを構築できるUIライブラリ。
 | Source code | https://github.com/vitejs/vite |  
 | Language | TypeScript |  
 | Category | Web Development Tool |  
-| Release date | 2020/04/20 |  
 | License | MIT License |  
 | Status | Active |  
 
@@ -589,7 +560,6 @@ Reactと同じくSPAを構築できるUIライブラリ。
 | Source code | https://mvnrepository.com/artifact/org.apache.maven |  
 | Language | Java |  
 | Category | Build Tool |  
-| Release date | 2004/06/13 |  
 | License | Apache License 2.0 |  
 | Status | Active |  
 
@@ -608,7 +578,6 @@ Java用のプロジェクト管理ツール。
 | Source code | https://github.com/gradle/gradle |  
 | Language | Java, Groovy |  
 | Category | Build Tool |  
-| Release date | 2008/04/21 |  
 | License | Apache License 2.0 |  
 | Status | Active |  
 
@@ -627,7 +596,6 @@ Apache Mavenと違って増分ビルドが可能。
 | Source code | https://www.sqlite.org/src/doc/trunk/README.md |  
 | Language | C |  
 | Category | Database |  
-| Release date | 2000/08/17 |  
 | License | Public domain |  
 | Status | Active |  
 
@@ -646,7 +614,6 @@ Apache Mavenと違って増分ビルドが可能。
 | Source code | https://git.ffmpeg.org/ffmpeg.git |  
 | Language | C, Assembly |  
 | Category | Multimedia framework |  
-| Release date | 2000/12/20 |  
 | License | LGPL2.1 |  
 | Status | Active |  
 
@@ -665,7 +632,6 @@ Apache Mavenと違って増分ビルドが可能。
 | Source code | https://projects.blender.org/blender/blender |  
 | Language | C, C++, Python |  
 | Category | 3D |  
-| Release date | 1994/01/02 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -685,7 +651,6 @@ Apache Mavenと違って増分ビルドが可能。
 | Source code | https://gitlab.com/kicad/code/kicad |  
 | Language | C, C++ |  
 | Category | EDA |  
-| Release date | 1992 |  
 | License | GPLv3 |  
 | Status | Active |  
 
@@ -704,7 +669,6 @@ Apache Mavenと違って増分ビルドが可能。
 | Source code | https://github.com/audacity/audacity |  
 | Language | C, C++ |  
 | Category | Audio Editor |  
-| Release date | 2000/05/28 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -723,7 +687,6 @@ Apache Mavenと違って増分ビルドが可能。
 | Source code | https://github.com/vercel/next.js |  
 | Language | JavaScript, TypeScript |  
 | Category | Web framefork |  
-| Release date | 2016/10/25 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -741,7 +704,6 @@ Reactベースのフレームワークであり、サーバーサイドレンダ
 | Source code | https://github.com/angular/angular |  
 | Language | TypeScript |  
 | Category | Web framework |  
-| Release date | 2016/09/14 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -760,7 +722,6 @@ Googleが開発を主導するWebフレームワーク。
 | Source code | https://github.com/nodejs/node |  
 | Language | JavaScript, C++ |  
 | Category | Runtime environment |  
-| Release date | 2009/05/27 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -779,7 +740,6 @@ Googleが開発を主導するWebフレームワーク。
 | Source code | https://github.com/denoland/deno |  
 | Language | Rust, JavaScript, TypeScript |  
 | Category | Runtime environment |  
-| Release date | 2018/05/13 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -798,7 +758,6 @@ Node.jsの作者がNode.jsの反省点を生かし作った新たなJavaScript�
 | Source code | https://github.com/oven-sh/bun |  
 | Language | Zig, C++, JavaScript |  
 | Category | Runtime environment |  
-| Release date | 2021/09/14 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -817,7 +776,6 @@ Zigという言語で実装されており動作が高速。
 | Source code | https://chromium.googlesource.com/v8/v8 |  
 | Language | C++ |  
 | Category | JavaScript engine |  
-| Release date | 2008/09/02 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -836,7 +794,6 @@ Chromiumの他Node.jsやDenoにも採用されている。
 | Source code | https://gitlab.com/qemu-project/qemu |  
 | Language | C |  
 | Category | Emulator |  
-| Release date | 2003/ |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -855,7 +812,6 @@ AndroidのSDKにも利用されている。
 | Source code | https://git.kernel.org/pub/scm/virt/kvm/kvm.git |  
 | Language | C |  
 | Category | Hypervisor |  
-| Release date | 2006/10 |  
 | License | GPL |  
 | Status | Active |  
 
@@ -874,7 +830,6 @@ KVM自体はエミュレーションは全く実行しないため、エミュ�
 | Source code | github.com/numpy/numpy |  
 | Language | Python, C |  
 | Category | Numerical analysis |  
-| Release date | 1995 |  
 | License | BSD |  
 | Status | Active |  
 
@@ -893,7 +848,6 @@ NumPy自体はC言語で書かれているため動作は高速。
 | Source code | https://github.com/scipy/scipy |  
 | Language | Python, Fortran, C |  
 | Category | Numerical analysis |  
-| Release date | 2001 |  
 | License | BSD |  
 | Status | Active |  
 
@@ -912,7 +866,6 @@ Pythonにて高度な数学、科学、工業計算を扱うライブラリ。
 | Source code | https://github.com/scikit-learn/scikit-learn |  
 | Language | Python |  
 | Category | Machine learning library |  
-| Release date | 2007/1 |  
 | License | New BSD |  
 | Status | Active |  
 
@@ -931,7 +884,6 @@ SVM、ランダムフォレスト、GBなどの回帰、分類、クラスタリ
 | Source code | https://github.com/pytorch/pytorch |  
 | Language | Python, C++ |  
 | Category | Machine learning library |  
-| Release date | 2016/09 |  
 | License | BSD-3 |  
 | Status | Active |  
 
@@ -950,7 +902,6 @@ Facebookが開発を主導しており、機械学習ライブラリのシェア
 | Source code | https://github.com/tensorflow/tensorflow |  
 | Language | Python, C++ |  
 | Category | Machine learning library |  
-| Release date | 2015/11/09 |  
 | License | Apache 2.0 |  
 | Status | Active |  
 
@@ -969,7 +920,6 @@ Googleが開発を主導する機械学習ライブラリ。
 | Source code | https://github.com/keras-team/keras |  
 | Language | Python |  
 | Category | Machine learning library |  
-| Release date | 2015/03/27 |  
 | License | Apache 2.0 |  
 | Status | Active |  
 
@@ -988,7 +938,6 @@ Googleが開発を主導する機械学習ライブラリ。
 | Source code | https://github.com/chainer/chainer |  
 | Language | Python, C++ |  
 | Category | Machine learning library |  
-| Release date | 2015/06/09 |  
 | License | MIT |  
 | Status | Inactive |  
 
@@ -1007,7 +956,6 @@ Pytorchにも大きな影響を与えたが、英語圏の勢いに負けてし�
 | Source code | https://invisible-mirror.net/archives/ncurses |  
 | Language | C |  
 | Category | Widget toolkit |  
-| Release date | 1993 |  
 | License | X11 |  
 | Status | Active |  
 
@@ -1026,7 +974,6 @@ cursesの代替を目指して開発され今では最も普及している。
 | Source code | https://github.com/google/jax |  
 | Language | Python |  
 | Category | Machine learning library |  
-| Release date | 2022/05/16 |  
 | License | Apache2.0 |  
 | Status | Active |  
 
@@ -1045,7 +992,6 @@ Googleが開発を行う機械学習ライブラリ。
 | Source code | https://github.com/steveicarus/iverilog |  
 | Language | C++, Verilog, C |  
 | Category | Verilog Simulator |  
-| Release date | 1998 |  
 | License | GPL2.0 |  
 | Status | Active |  
 
@@ -1065,7 +1011,6 @@ System Verilogにも対応している。
 | Source code | https://github.com/libsdl-org/SDL |  
 | Language | C, C++ |  
 | Category | Multimedia library |  
-| Release date | 1998 |  
 | License | Zlib license |  
 | Status | Active |  
 
@@ -1084,7 +1029,6 @@ JavaやRust、phpなどの様々な言語のラッパーが存在する。
 | Source code | https://github.com/gfx-rs/wgpu |  
 | Language | Rust |  
 | Category | Graphics API |  
-| Release date | 2019 |  
 | License | Apache-2.0, MIT licenses |  
 | Status | Active |  
 
@@ -1103,7 +1047,6 @@ WebGPUベースなのでクロスプラットフォームであり、様々な�
 | Source code | https://github.com/opencv/opencv |  
 | Language | C++ |  
 | Category | Image processing library |  
-| Release date | 2000/06 |  
 | License | Apache2.0 |  
 | Status | Active |  
 
@@ -1122,7 +1065,6 @@ Pythonでもopencv-pythonとしてパッケージが提供されている。
 | Source code | https://github.com/mitsuhiko/rye |  
 | Language | Rust |  
 | Category | Package manager |  
-| Release date | 2023/05/17 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1142,7 +1084,6 @@ pyenv + poetry のようなイメージ。
 | Source code | https://github.com/python-poetry/poetry |  
 | Language | Python |  
 | Category | Package manager |  
-| Release date | 2018/03/01 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1161,7 +1102,6 @@ pipと違い自動的に仮想環境が構築される。
 | Source code | https://github.com/pypa/pipenv |  
 | Language | Python |  
 | Category | Package manager |  
-| Release date | 2017/01/21 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1180,7 +1120,6 @@ pipと違い自動的に仮想環境が構築される。
 | Source code | https://github.com/pyenv/pyenv |  
 | Language | Python |  
 | Category | Environment manager |  
-| Release date | 2011/10/02 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1199,7 +1138,6 @@ pipと違い自動的に仮想環境が構築される。
 | Source code | https://github.com/charliermarsh/ruff |  
 | Language | Rust |  
 | Category | Linter |  
-| Release date | 2022/08/30 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1218,7 +1156,6 @@ flake8に比べても格段に早い。
 | Source code | https://github.com/PyCQA/flake8 |  
 | Language | Python |  
 | Category | Linter |  
-| Release date | 2010/02/15 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1240,7 +1177,6 @@ PyPAが管理しているプロジェクト。
 | Source code | https://github.com/pytest-dev/pytest |  
 | Language | Python |  
 | Category | Testing framework |  
-| Release date | 2007/01 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1259,7 +1195,6 @@ PyPAが管理しているプロジェクト。
 | Source code | https://github.com/python/mypy |  
 | Language | Python |  
 | Category | Type checker |  
-| Release date | 2009/09/09 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1278,7 +1213,6 @@ Pythonで静的型検査が行えるライブラリ。
 | Source code | https://github.com/kcat/openal-soft |  
 | Language | C++ |  
 | Category | Sound library |  
-| Release date | 2007/12/15 |  
 | License | GPLv2 |  
 | Status | Active |  
 
@@ -1297,7 +1231,6 @@ Open ALというクロスプラットフォームのオーディオAPIを実装�
 | Source code | https://github.com/LWJGL/lwjgl3 |  
 | Language | Java |  
 | Category | Game library |  
-| Release date | 2007/02/04 |  
 | License | BSD |  
 | Status | Active |  
 
@@ -1316,7 +1249,6 @@ OpenGL/Vulkan, OpenAL, OpenCLをJavaから扱えるようにしたライブラ�
 | Source code | https://github.com/tox-dev/tox |  
 | Language | Python |  
 | Category | Test command line tool |  
-| Release date | 2010/07/12 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1334,7 +1266,6 @@ OpenGL/Vulkan, OpenAL, OpenCLをJavaから扱えるようにしたライブラ�
 | Source code | https://github.com/psf/black |  
 | Language | Python |  
 | Category | Formatter |  
-| Release date | 2018/03/15 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1354,7 +1285,6 @@ pep8に準拠したフォーマットに整形してくれるフォーマッタ�
 | Source code | https://github.com/PyCQA/isort |  
 | Language | Python |  
 | Category | Formatter |  
-| Release date | 2013/09/05 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1373,7 +1303,6 @@ import文をPEP8に準拠した適切な順番に並び替えるフォーマッ�
 | Source code | https://github.com/pfnet/pysen |  
 | Language | Python |  
 | Category | Utility |  
-| Release date | 2021/05/22 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1392,7 +1321,6 @@ flake8、mypy、black 、isortのlint、formatを一度に実行できるライ�
 | Source code | https://github.com/bytecodealliance/wasmtime |  
 | Language | Rust |  
 | Category | Wasm runtime |  
-| Release date | 2020/02/26 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1411,7 +1339,6 @@ Wasmの仕様を決めているBytecode Allianceが開発を行っている。
 | Source code | https://github.com/wasmerio/wasmer |  
 | Language | Rust |  
 | Category | Wasm runtime |  
-| Release date | 2018/11/24 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1430,7 +1357,6 @@ Wasmtimeと比べて高速に動作したり、機能が豊富。
 | Source code | https://github.com/POV-Ray/povray |  
 | Language | C++ |  
 | Category | Ray tracer |  
-| Release date | 1991/07/29 |  
 | License | AGPL3.0 |  
 | Status | Active |  
 
@@ -1449,7 +1375,6 @@ Persistence of Vision Raytracerの略であり、ポヴレイと読まれる。
 | Source code | https://github.com/facebookexperimental/Recoil |  
 | Language | JavaScript |  
 | Category | State management library  |  
-| Release date | 2020/05/31 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1468,7 +1393,6 @@ Facebook謹製のReact用状態管理ライブラリ。
 | Source code | https://github.com/tiangolo/fastapi |  
 | Language | Python |  
 | Category | Web framework |  
-| Release date | 2018/12/05 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1487,7 +1411,6 @@ OpenAPIドキュメントが自動生成されるなど便利な機能が豊富�
 | Source code | https://github.com/django/django |  
 | Language | Python |  
 | Category | Web framework |  
-| Release date | 2005/07/21  |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1506,7 +1429,6 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 | Source code | https://github.com/pallets/flask |  
 | Language | Python |  
 | Category | Web framework |  
-| Release date | 2010/04/01 |  
 | License | BSDv3 |  
 | Status | Active |  
 
@@ -1525,7 +1447,6 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 | Source code | https://github.com/bottlepy/bottle |  
 | Language | Python |  
 | Category | Web framework |  
-| Release date | 2009/07/11 |  
 | License | MIT |  
 | Status | Active |  
 
@@ -1544,7 +1465,6 @@ model–template–viewsアーキテクチャを採用するWebフレームワ�
 | Source code | https://github.com/glfw/glfw |  
 | Language | C |  
 | Category | Graphic API |  
-| Release date | 2002/02/17 |  
 | License | Zlib |  
 | Status | Active |  
 
@@ -1563,7 +1483,6 @@ OpenGLをベースとした軽量なグラフィックAPI。
 | Source code | https://github.com/pybind/pybind11 |  
 | Language | C++, Python |  
 | Category | Head library |  
-| Release date |  |  
 | License | BSD |  
 | Status | Active |  
 
