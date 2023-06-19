@@ -1490,3 +1490,21 @@ CやC++で実装したプログラムをPythonから簡単に使えるように�
 パッケージ化することもできる。  
 
 ---
+
+## nanobind
+
+| title | contents |
+|-|-|
+| No | 0082 |  
+| Survey date | 2023/06/20 |  
+| Official site | https://nanobind.readthedocs.io |  
+| Source code | https://github.com/wjakob/nanobind |  
+| Language | C++, Python |  
+| Category | Head library |  
+| License | BSD-3 |  
+| Status | Active |  
+
+pybind11の作者が新たに作ったバインディングライブラリ。  
+パフォーマンスの向上やCMakeとの連携などが改善されている。  
+
+---
