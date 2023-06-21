@@ -1508,3 +1508,39 @@ pybind11の作者が新たに作ったバインディングライブラリ。
 パフォーマンスの向上やCMakeとの連携などが改善されている。  
 
 ---
+
+## nanobind
+
+| title | contents |
+|-|-|
+| No | 0082 |  
+| Survey date | 2023/06/20 |  
+| Official site | https://nanobind.readthedocs.io |  
+| Source code | https://github.com/wjakob/nanobind |  
+| Language | C++, Python |  
+| Category | Head library |  
+| License | BSD-3 |  
+| Status | Active |  
+
+pybind11の作者が新たに作ったバインディングライブラリ。  
+パフォーマンスの向上やCMakeとの連携などが改善されている。  
+
+---
+
+## Cython
+
+| title | contents |
+|-|-|
+| No | 0083 |  
+| Survey date | 2023/06/21 |  
+| Official site | https://cython.org |  
+| Source code | https://github.com/cython/cython |  
+| Language | Python, Cython |  
+| Category | Optimising static compiler |  
+| License | Apache-2.0 |  
+| Status | Active |  
+
+PythonをC/C++に変換することで、高速化を図る処理系。  
+Cython言語というPythonのスーパーセットを用いてトランスパイルを行う。  
+
+---
