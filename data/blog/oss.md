@@ -1562,3 +1562,21 @@ Python用のRustバインディング。
 RustからPythonコードの実行ができる。  
 
 ---
+
+## naga
+
+| title | contents |
+|-|-|
+| No | 0086 |  
+| Survey date | 2023/06/24 |  
+| Official site | https://crates.io/crates/naga |  
+| Source code | https://github.com/gfx-rs/naga |  
+| Language | Rust |  
+| Category | Shader translation library |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+Rustのwgpuでに対応したシェダー変換ライブラリ。  
+WGSLやHLSL、GLSL、Metalなど主要なシェダーに対応している。  
+
+---
