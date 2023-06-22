@@ -1544,3 +1544,21 @@ PythonをC/C++に変換することで、高速化を図る処理系。
 Cython言語というPythonのスーパーセットを用いてトランスパイルを行う。  
 
 ---
+
+## PyO3
+
+| title | contents |
+|-|-|
+| No | 0085 |  
+| Survey date | 2023/06/23 |  
+| Official site | https://pyo3.rs |  
+| Source code | https://github.com/PyO3/pyo3 |  
+| Language | Rust |  
+| Category | Binding library |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+Python用のRustバインディング。  
+RustからPythonコードの実行ができる。  
+
+---
