@@ -1580,3 +1580,21 @@ Rustのwgpuでに対応したシェダー変換ライブラリ。
 WGSLやHLSL、GLSL、Metalなど主要なシェダーに対応している。  
 
 ---
+
+## OpenSSL
+
+| title | contents |
+|-|-|
+| No | 0087 |  
+| Survey date | 2023/06/25 |  
+| Official site | https://www.openssl.org |  
+| Source code | https://github.com/openssl/openssl |  
+| Language | C, Perl |  
+| Category | Security library |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+SSL、TLSプロトコルや各種暗号プロトコルを提供するライブラリ。  
+幅広く活用されており、様々なプラットフォームで利用できる。    
+
+---
