@@ -1549,8 +1549,8 @@ Cython言語というPythonのスーパーセットを用いてトランスパ�
 
 | title | contents |
 |-|-|
-| No | 0085 |  
-| Survey date | 2023/06/23 |  
+| No | 0084 |  
+| Survey date | 2023/06/22 |  
 | Official site | https://pyo3.rs |  
 | Source code | https://github.com/PyO3/pyo3 |  
 | Language | Rust |  
@@ -1567,8 +1567,8 @@ RustからPythonコードの実行ができる。
 
 | title | contents |
 |-|-|
-| No | 0086 |  
-| Survey date | 2023/06/24 |  
+| No | 0085 |  
+| Survey date | 2023/06/23 |  
 | Official site | https://crates.io/crates/naga |  
 | Source code | https://github.com/gfx-rs/naga |  
 | Language | Rust |  
@@ -1585,8 +1585,8 @@ WGSLやHLSL、GLSL、Metalなど主要なシェダーに対応している。
 
 | title | contents |
 |-|-|
-| No | 0087 |  
-| Survey date | 2023/06/25 |  
+| No | 0086 |  
+| Survey date | 2023/06/24 |  
 | Official site | https://www.openssl.org |  
 | Source code | https://github.com/openssl/openssl |  
 | Language | C, Perl |  
@@ -1596,5 +1596,23 @@ WGSLやHLSL、GLSL、Metalなど主要なシェダーに対応している。
 
 SSL、TLSプロトコルや各種暗号プロトコルを提供するライブラリ。  
 幅広く活用されており、様々なプラットフォームで利用できる。    
+
+---
+
+## panda
+
+| title | contents |
+|-|-|
+| No | 0087 |  
+| Survey date | 2023/06/25 |  
+| Official site | https://panda-css.com |  
+| Source code | https://github.com/chakra-ui/panda |  
+| Language | TypeScript |  
+| Category | CSS library |  
+| License | MIT |  
+| Status | Active |  
+
+Chakra UIのチームが開発したゼロランタイムでモダンなCSS in JSライブラリ。  
+様々なライブラリ/フレームワークに対応している。  
 
 ---
