@@ -1608,11 +1608,29 @@ SSL、TLSプロトコルや各種暗号プロトコルを提供するライブ�
 | Official site | https://panda-css.com |  
 | Source code | https://github.com/chakra-ui/panda |  
 | Language | TypeScript |  
-| Category | CSS library |  
+| Category | CSS framework |  
 | License | MIT |  
 | Status | Active |  
 
 Chakra UIのチームが開発したゼロランタイムでモダンなCSS in JSライブラリ。  
 様々なライブラリ/フレームワークに対応している。  
+
+---
+
+## Tailwind CSS
+
+| title | contents |
+|-|-|
+| No | 0088 |  
+| Survey date | 2023/06/26 |  
+| Official site | https://tailwindcss.com |  
+| Source code | https://github.com/tailwindlabs/tailwindcss |  
+| Language | CSS, JavaScript |  
+| Category | CSS framework |  
+| License | MIT |  
+| Status | Active |  
+
+ユーティリティーファーストなCSSフレームワーク。  
+タグにユーティリティークラスを付与することでスタイルが適応される。  
 
 ---
