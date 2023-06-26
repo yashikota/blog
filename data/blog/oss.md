@@ -1634,3 +1634,21 @@ Chakra UIのチームが開発したゼロランタイムでモダンなCSS in J
 タグにユーティリティークラスを付与することでスタイルが適応される。  
 
 ---
+
+## Chakra UI
+
+| title | contents |
+|-|-|
+| No | 0089 |  
+| Survey date | 2023/06/27 |  
+| Official site | https://chakra-ui.com |  
+| Source code | https://github.com/chakra-ui/chakra-ui |  
+| Language | TypeScript |  
+| Category | CSS framework |  
+| License | MIT |  
+| Status | Active |  
+
+スタイルも一緒に提供してくれるUIコンポーネントライブラリ。  
+効率よくUIを構築することができる。  
+
+---
