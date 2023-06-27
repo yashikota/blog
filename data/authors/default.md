@@ -13,7 +13,8 @@ rss: https://yashikota.com/feed.xml
 ## Interests
 
 - GameDev
-- Systems Programming
+- 3DCG
+- System Programming
 - AI
 - Frontend
 - Security
@@ -24,7 +25,8 @@ and more...
 ## Activities
 
 - [Security MiniCamp Online 2022](https://www.security-camp.or.jp/minicamp/online2022.html)
-- [MWS 2022](https://www.iwsec.org/mws/2022/)
+- [MWS Cup 2022](https://www.iwsec.org/mws/2022/)
+- [Bug Shooting Challenge #9](https://mixil.mixi.co.jp/report/3329)
 
 ## Skills
 
@@ -34,6 +36,14 @@ and more...
 |----------|-----|
 |Unreal Engine|★☆☆☆☆|
 |Unity|★☆☆☆☆|
+|DirectX|★★☆☆☆|
+
+### 3DCG
+
+|Technology|Skill|
+|----------|-----|
+|Blender|★☆☆☆☆|
+|HLSL|★☆☆☆☆|
 
 ### System Programming
 
@@ -43,6 +53,8 @@ and more...
 |C++|★★☆☆☆|
 |Rust|★★☆☆☆|
 |Go|★☆☆☆☆|
+|OS|★★☆☆☆|
+|Compiler|★☆☆☆☆|
 
 ### AI
 
@@ -69,7 +81,12 @@ and more...
 
 |Technology|Skill|
 |----------|-----|
-|CTF|★☆☆☆☆|
+|Web|★★☆☆☆|
+|Crypto|★☆☆☆☆|
+|Rev|★★☆☆☆|
+|Pwn|★★☆☆☆|
+|Forensics|★★☆☆☆|
+|Misc|★★☆☆☆|
 
 ### Electronics
 
@@ -84,7 +101,7 @@ and more...
 |----------|-----|
 |Linux|★★★★☆|
 |VSCode|★★★★☆|
-|Neovim|★★☆☆☆|
+|Neovim|★☆☆☆☆|
 |Git|★★★☆☆|
 |GitHub|★★★★☆|
 |Docker|★★☆☆☆|
