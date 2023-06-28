@@ -1670,3 +1670,21 @@ Googleが提唱するMaterial Designを提供するUIライブラリ。
 昔はMaterial UIという名前だったが改名されMUIとなっている。  
 
 ---
+
+## NextUI
+
+| title | contents |
+|-|-|
+| No | 0091 |  
+| Survey date | 2023/06/29 |  
+| Official site | https://nextui.org |  
+| Source code | https://github.com/nextui-org/nextui |  
+| Language | TypeScript |  
+| Category | CSS framework |  
+| License | MIT |  
+| Status | Active |  
+
+モダンで美しいUIを提供するUIライブラリ。  
+version2ではTailwindベースで開発が進められている。  
+
+---
