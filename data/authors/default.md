@@ -27,6 +27,7 @@ and more...
 - [Security MiniCamp Online 2022](https://www.security-camp.or.jp/minicamp/online2022.html)
 - [MWS Cup 2022](https://www.iwsec.org/mws/2022/)
 - [Bug Shooting Challenge #9](https://mixil.mixi.co.jp/report/3329)
+- [Git Challenge #13](https://github.com/mixi-git-challenge/publications)
 
 ## Skills
 
