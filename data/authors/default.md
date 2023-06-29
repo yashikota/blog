@@ -29,6 +29,24 @@ and more...
 - [Bug Shooting Challenge #9](https://mixil.mixi.co.jp/report/3329)
 - [Git Challenge #13](https://github.com/mixi-git-challenge/publications)
 
+## Careers
+
+- 学校法人角川ドワンゴ学園 プログラミングTA インターン
+  - 2023/03 ~ 現在
+  - HTML, CSS, JavaScript, Unity, Blender
+
+- 株式会社AVILEN AI人材育成 インターン
+  - 2023/05 ~ 現在
+  - Python, Pytorch, TensorFlow
+
+- Flatt Security Webセキュリティエンジニア サマーインターン
+  - 2023/08
+  - Firebase, OAuth/OIDC, AWS
+
+- ちゅらデータ株式会社 データエンジニア サマーインターン
+  - 2023/08
+  - Github, AWS, Snowflake, dbt
+
 ## Skills
 
 ### GameDev
