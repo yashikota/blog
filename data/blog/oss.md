@@ -1688,3 +1688,21 @@ Googleが提唱するMaterial Designを提供するUIライブラリ。
 version2ではTailwindベースで開発が進められている。  
 
 ---
+
+## Stitches
+
+| title | contents |
+|-|-|
+| No | 0092 |  
+| Survey date | 2023/06/30 |  
+| Official site | https://stitches.dev |  
+| Source code | https://github.com/stitchesjs/stitches |  
+| Language | JavaScript |  
+| Category | CSS framework |  
+| License | MIT |  
+| Status | Inactive |  
+
+near-zero runtimeで型安全に書けるCSS in JSライブラリ。  
+現在は開発が終了しており、メンテナンスフェーズに入っている。  
+
+---
