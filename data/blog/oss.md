@@ -1706,3 +1706,21 @@ near-zero runtimeで型安全に書けるCSS in JSライブラリ。
 現在は開発が終了しており、メンテナンスフェーズに入っている。  
 
 ---
+
+## styled-components
+
+| title | contents |
+|-|-|
+| No | 0093 |  
+| Survey date | 2023/07/01 |  
+| Official site | https://styled-components.com |  
+| Source code | https://github.com/styled-components/styled-components |  
+| Language | TypeScript |  
+| Category | CSS framework |  
+| License | MIT |  
+| Status | Active |  
+
+CSS in JSライブラリの1つでメジャーなライブラリ。  
+スタイルを当てたコンポーネントを定義するという特徴を持つ。  
+
+---
