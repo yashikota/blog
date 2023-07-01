@@ -35,6 +35,13 @@ const projectsData = [
     href: 'https://github.com/yashikota/jancode',
   },
   {
+    title: '勉強会 資料集',
+    description: `主催した勉強会の資料をまとめたサイト
+    使用技術 : Python`,
+    imgSrc: '/static/images/meetup.png',
+    href: 'https://meetup.yashikota.com',
+  },
+  {
     title: 'Pomodoro Timer',
     description: `Siv3Dで作成したポモドーロタイマー
     使用技術 : Siv3D, C++`,
