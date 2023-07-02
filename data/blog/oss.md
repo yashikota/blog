@@ -1724,3 +1724,39 @@ CSS in JSライブラリの1つでメジャーなライブラリ。
 スタイルを当てたコンポーネントを定義するという特徴を持つ。  
 
 ---
+
+## bpftune
+
+| title | contents |
+|-|-|
+| No | 0094 |  
+| Survey date | 2023/07/03 |  
+| Official site | https://github.com/oracle-samples/bpftune |  
+| Source code | https://github.com/oracle-samples/bpftune |  
+| Language | C |  
+| Category | eBPF |  
+| License | GPL 2.0 |  
+| Status | Active |  
+
+オラクルが開発しているLinuxカーネル用チューニングツール。  
+輻輳やTCP、Netnsなどのチューナーが利用できる。  
+
+---
+
+## OpenEXR 
+
+| title | contents |
+|-|-|
+| No | 0095 |  
+| Survey date | 2023/07/04 |  
+| Official site | https://openexr.com |  
+| Source code | https://github.com/AcademySoftwareFoundation/openexr |  
+| Language | C, C++ |  
+| Category | Image format |  
+| License | BSD License |  
+| Status | Active |  
+
+HDRイメージのための規格でスターウォーズの特殊効果を担当したILM社によって作られた。  
+現在では様々なソフトウェアでサポートされている。  
+
+---
