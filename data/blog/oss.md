@@ -1760,3 +1760,21 @@ HDRイメージのための規格でスターウォーズの特殊効果を担�
 現在では様々なソフトウェアでサポートされている。  
 
 ---
+
+## OpenSubdiv 
+
+| title | contents |
+|-|-|
+| No | 0096 |  
+| Survey date | 2023/07/05 |  
+| Official site | https://graphics.pixar.com/opensubdiv |  
+| Source code | https://github.com/PixarAnimationStudios/OpenSubdiv |  
+| Language | C++, C |  
+| Category | 3DCG |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+サブディビジョンサーフェスというポリゴンを滑らかに分割する手法を実装するライブラリ。  
+アニメーション映画でおなじみのピクサーが開発している。  
+
+---
