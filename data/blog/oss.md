@@ -1778,3 +1778,21 @@ HDRイメージのための規格でスターウォーズの特殊効果を担�
 アニメーション映画でおなじみのピクサーが開発している。  
 
 ---
+
+## Streamlit
+
+| title | contents |
+|-|-|
+| No | 0097 |  
+| Survey date | 2023/07/06 |  
+| Official site | https://streamlit.io |  
+| Source code | https://github.com/streamlit/streamlit |  
+| Language | Python, TypeScript |  
+| Category | Web framework |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+Pythonのコードだけでお手軽にWebサイトを作成できるフレームワーク。  
+機械学習アプリのデモ用などに使われている。  
+
+---
