@@ -1730,7 +1730,7 @@ CSS in JSライブラリの1つでメジャーなライブラリ。
 | title | contents |
 |-|-|
 | No | 0094 |  
-| Survey date | 2023/07/03 |  
+| Survey date | 2023/07/02 |  
 | Official site | https://github.com/oracle-samples/bpftune |  
 | Source code | https://github.com/oracle-samples/bpftune |  
 | Language | C |  
@@ -1748,7 +1748,7 @@ CSS in JSライブラリの1つでメジャーなライブラリ。
 | title | contents |
 |-|-|
 | No | 0095 |  
-| Survey date | 2023/07/04 |  
+| Survey date | 2023/07/03 |  
 | Official site | https://openexr.com |  
 | Source code | https://github.com/AcademySoftwareFoundation/openexr |  
 | Language | C, C++ |  
@@ -1766,7 +1766,7 @@ HDRイメージのための規格でスターウォーズの特殊効果を担�
 | title | contents |
 |-|-|
 | No | 0096 |  
-| Survey date | 2023/07/05 |  
+| Survey date | 2023/07/04 |  
 | Official site | https://graphics.pixar.com/opensubdiv |  
 | Source code | https://github.com/PixarAnimationStudios/OpenSubdiv |  
 | Language | C++, C |  
@@ -1784,7 +1784,7 @@ HDRイメージのための規格でスターウォーズの特殊効果を担�
 | title | contents |
 |-|-|
 | No | 0097 |  
-| Survey date | 2023/07/06 |  
+| Survey date | 2023/07/05 |  
 | Official site | https://streamlit.io |  
 | Source code | https://github.com/streamlit/streamlit |  
 | Language | Python, TypeScript |  
@@ -1794,5 +1794,23 @@ HDRイメージのための規格でスターウォーズの特殊効果を担�
 
 Pythonのコードだけでお手軽にWebサイトを作成できるフレームワーク。  
 機械学習アプリのデモ用などに使われている。  
+
+---
+
+## Gradio
+
+| title | contents |
+|-|-|
+| No | 0098 |  
+| Survey date | 2023/07/06 |  
+| Official site | https://www.gradio.app |  
+| Source code | https://github.com/gradio-app/gradio |  
+| Language | Python |  
+| Category | Web framework |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+機械学習のデモを簡単に行えるサイトを構築できるPythonライブラリ。  
+Stable Diffusion web UIにも使われている。  
 
 ---
