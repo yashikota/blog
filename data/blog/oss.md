@@ -1814,3 +1814,21 @@ Pythonのコードだけでお手軽にWebサイトを作成できるフレー�
 Stable Diffusion web UIにも使われている。  
 
 ---
+
+## OpenSSL
+
+| title | contents |
+|-|-|
+| No | 0099 |  
+| Survey date | 2023/07/07 |  
+| Official site | https://www.openssl.org |  
+| Source code | https://github.com/openssl/openssl |  
+| Language | C, Perl |  
+| Category | Cryptography library |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+SSL/TLSと暗号を扱うライブラリ。  
+様々なプラットフォームにて使用されている。  
+
+---
