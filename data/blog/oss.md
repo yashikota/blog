@@ -1832,3 +1832,21 @@ SSL/TLSと暗号を扱うライブラリ。
 様々なプラットフォームにて使用されている。  
 
 ---
+
+## zlib
+
+| title | contents |
+|-|-|
+| No | 0100 |  
+| Survey date | 2023/07/08 |  
+| Official site | https://z-lib.is |  
+| Source code | https://github.com/madler/zlib |  
+| Language | C |  
+| Category | Data compression library |  
+| License | zlib License |  
+| Status | Active |  
+
+データ圧縮、展開を行うライブラリ。  
+可逆圧縮形式のDeflateを採用している。
+
+---
