@@ -1850,3 +1850,21 @@ SSL/TLSと暗号を扱うライブラリ。
 可逆圧縮形式のDeflateを採用している。
 
 ---
+
+## Zstandard
+
+| title | contents |
+|-|-|
+| No | 0101 |  
+| Survey date | 2023/07/09 |  
+| Official site | https://facebook.github.io/zstd |  
+| Source code | https://github.com/facebook/zstd |  
+| Language | C |  
+| Category | Data compression library |  
+| License | GPL2.0 |  
+| Status | Active |  
+
+高速で可逆圧縮なデータ圧縮ライブラリ。  
+リアルタイム圧縮をサポートし、zlibより高い圧縮率を誇る。  
+
+---
