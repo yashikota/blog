@@ -1868,3 +1868,21 @@ SSL/TLSと暗号を扱うライブラリ。
 リアルタイム圧縮をサポートし、zlibより高い圧縮率を誇る。  
 
 ---
+
+## Ubuntu
+
+| title | contents |
+|-|-|
+| No | 0102 |  
+| Survey date | 2023/07/10 |  
+| Official site | https://ubuntu.com |  
+| Source code | https://code.launchpad.net/ubuntu |  
+| Language | C, Assembly |  
+| Category | OS, Linux |  
+| License | GPL |  
+| Status | Active |  
+
+DebianをベースにしたLinuxカーネルの1つであり、大きなシェアを獲得している。  
+半年に1回アップデートが提供されており、2年に1度LTS版がリリースされる。  
+
+---
