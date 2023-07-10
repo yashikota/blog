@@ -1886,3 +1886,21 @@ DebianをベースにしたLinuxカーネルの1つであり、大きなシェ�
 半年に1回アップデートが提供されており、2年に1度LTS版がリリースされる。  
 
 ---
+
+## Android
+
+| title | contents |
+|-|-|
+| No | 0103 |  
+| Survey date | 2023/07/11 |  
+| Official site | https://www.android.com |  
+| Source code | https://android.googlesource.com |  
+| Language | Java, Kotlin, C, C++ |  
+| Category | OS |  
+| License | Apache License 2.0 |  
+| Status | Active |  
+
+世界で最も使用されているモバイル用OS。  
+Linuxベースでタッチ操作などに最適化されている。  
+
+---
