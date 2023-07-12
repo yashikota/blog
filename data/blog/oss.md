@@ -1904,3 +1904,21 @@ DebianをベースにしたLinuxカーネルの1つであり、大きなシェ�
 Linuxベースでタッチ操作などに最適化されている。  
 
 ---
+
+## Debian
+
+| title | contents |
+|-|-|
+| No | 0104 |  
+| Survey date | 2023/07/12 |  
+| Official site | https://www.debian.org |  
+| Source code | https://sources.debian.org |  
+| Language | C |  
+| Category | OS |  
+| License | DFSG-compatible licenses |  
+| Status | Active |  
+
+Linuxディストリビューションの1つ。  
+UbuntuはDebianの派生ディストリビューションである。  
+
+---
