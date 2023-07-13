@@ -1922,3 +1922,21 @@ Linuxディストリビューションの1つ。
 UbuntuはDebianの派生ディストリビューションである。  
 
 ---
+
+## OpenJDK
+
+| title | contents |
+|-|-|
+| No | 0105 |  
+| Survey date | 2023/07/13 |  
+| Official site | https://openjdk.org |  
+| Source code | https://github.com/openjdk/jdk |  
+| Language | Java, C++ |  
+| Category | Java platform |  
+| License | GPL2.0 |  
+| Status | Active |  
+
+Java言語の公式リファレンス実装。  
+javacやJavaクラスライブラリが含まれている。  
+
+---
