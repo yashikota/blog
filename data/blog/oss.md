@@ -1958,3 +1958,21 @@ javacやJavaクラスライブラリが含まれている。
 処理速度が早く、キャッシュ用途としても用いられる。  
 
 ---
+
+## Godot
+
+| title | contents |
+|-|-|
+| No | 0107 |  
+| Survey date | 2023/07/15 |  
+| Official site | https://godotengine.org |  
+| Source code | https://github.com/godotengine/godot |  
+| Language | C++ |  
+| Category | Game engine |  
+| License | MIT |  
+| Status | Active |  
+
+2Dと3Dゲームが作れるゲームエンジン。  
+WindowsやMac, LinuxだけでなくiOSやAndroidにも対応している。  
+
+---
