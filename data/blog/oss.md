@@ -1940,3 +1940,21 @@ Java言語の公式リファレンス実装。
 javacやJavaクラスライブラリが含まれている。  
 
 ---
+
+## Redis
+
+| title | contents |
+|-|-|
+| No | 0106 |  
+| Survey date | 2023/07/14 |  
+| Official site | https://redis.io |  
+| Source code | https://github.com/redis/redis |  
+| Language | C |  
+| Category | KVS |  
+| License | BSD-3 |  
+| Status | Active |  
+
+インメモリデータベースなKVSで、NoSQLの1つ。  
+処理速度が早く、キャッシュ用途としても用いられる。  
+
+---
