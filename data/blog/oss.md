@@ -1976,3 +1976,21 @@ javacやJavaクラスライブラリが含まれている。
 WindowsやMac, LinuxだけでなくiOSやAndroidにも対応している。  
 
 ---
+
+## Robot Operating System
+
+| title | contents |
+|-|-|
+| No | 0108 |  
+| Survey date | 2023/07/16 |  
+| Official site | https://www.ros.org |  
+| Source code | https://index.ros.org/repos |  
+| Language | C++, Python |  
+| Category | OS |  
+| License | Apache 2.0 |  
+| Status | Active |  
+
+OSと名が付くが、どちらかというとミドルウェアの部類に属するソフトウェア。  
+ハードウェアの制御やIPC、分散処理、リアルタイム通信などを備えている。  
+
+---
