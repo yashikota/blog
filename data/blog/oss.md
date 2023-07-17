@@ -1986,11 +1986,29 @@ WindowsやMac, LinuxだけでなくiOSやAndroidにも対応している。
 | Official site | https://www.ros.org |  
 | Source code | https://index.ros.org/repos |  
 | Language | C++, Python |  
-| Category | OS |  
+| Category | middleware |  
 | License | Apache 2.0 |  
 | Status | Active |  
 
 OSと名が付くが、どちらかというとミドルウェアの部類に属するソフトウェア。  
 ハードウェアの制御やIPC、分散処理、リアルタイム通信などを備えている。  
+
+---
+
+## OpenBLAS
+
+| title | contents |
+|-|-|
+| No | 0109 |  
+| Survey date | 2023/07/17 |  
+| Official site | https://www.openblas.net |  
+| Source code | https://github.com/xianyi/OpenBLAS |  
+| Language | C, Fortran |  
+| Category | Math library |  
+| License | BSD-3 |  
+| Status | Active |  
+
+BLASという数値線形代数の関数を定義するAPIのオープンソースの実装。  
+手作業で各プラットフォームに最適化されている。  
 
 ---
