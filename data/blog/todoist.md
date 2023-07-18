@@ -1,7 +1,7 @@
 ---
 title: Todoistでタスク管理のすゝめ
 date: 2023-7-18
-tags: ["振り返り"]
+tags: ["ツール紹介"]
 draft: False
 layout: PostSimple
 ---
