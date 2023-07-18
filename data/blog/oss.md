@@ -2012,3 +2012,21 @@ BLASという数値線形代数の関数を定義するAPIのオープンソー�
 手作業で各プラットフォームに最適化されている。  
 
 ---
+
+## LAPACK
+
+| title | contents |
+|-|-|
+| No | 0110 |  
+| Survey date | 2023/07/18 |  
+| Official site | https://www.netlib.org/lapack |  
+| Source code | https://github.com/Reference-LAPACK/lapack |  
+| Language | Fortran, C |  
+| Category | Math library |  
+| License | BSD-new |  
+| Status | Active |  
+
+ 数値線形代数の数値解析ライブラリで、BLASを元に開発されている。  
+ 線型方程式や線型最小二乗問題、固有値問題、特異値問題等が演算できる。  
+
+---
