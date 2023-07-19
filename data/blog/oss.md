@@ -2030,3 +2030,22 @@ BLASという数値線形代数の関数を定義するAPIのオープンソー�
  線型方程式や線型最小二乗問題、固有値問題、特異値問題等が演算できる。  
 
 ---
+
+## wezterm
+
+| title | contents |
+|-|-|
+| No | 0111 |  
+| Survey date | 2023/07/19 |  
+| Official site | https://wezfurlong.org/wezterm |  
+| Source code | https://github.com/wez/wezterm |  
+| Language | Rust |  
+| Category | Terminal |  
+| License | MIT |  
+| Status | Active |  
+
+Rustで作られたGPUアクセラレーターを搭載したクロスプラットフォームなターミナルエミュレータ。  
+精力的に開発されており、様々な機能が搭載されている。  
+
+---
+
