@@ -2049,3 +2049,20 @@ Rustで作られたGPUアクセラレーターを搭載したクロスプラッ�
 
 ---
 
+## CLISP
+
+| title | contents |
+|-|-|
+| No | 0112 |  
+| Survey date | 2023/07/20 |  
+| Official site | https://clisp.sourceforge.io |  
+| Source code | http://git.savannah.gnu.org/cgit/gcl.git |  
+| Language | Common lisp, C |  
+| Category | Compiler |  
+| License | GPL v2 |  
+| Status | Active |  
+
+Common Lispの実装の一つであり、様々なプラットフォームに移植されている。  
+インタプリタとコンパイラの両方を含んでいる。  
+
+---
