@@ -2066,3 +2066,21 @@ Common Lispの実装の一つであり、様々なプラットフォームに移
 インタプリタとコンパイラの両方を含んでいる。  
 
 ---
+
+## libpng
+
+| title | contents |
+|-|-|
+| No | 0113 |  
+| Survey date | 2023/07/21 |  
+| Official site | http://www.libpng.org/pub/png/libpng.html |  
+| Source code | https://github.com/glennrp/libpng |  
+| Language | C |  
+| Category | Graphics library |  
+| License | libpng license |  
+| Status | Active |  
+
+PNGのエンコード・デコードを行うライブラリ。  
+様々なプラットフォームをサポートしており、幅広く使われている。  
+
+---
