@@ -2084,3 +2084,21 @@ PNGのエンコード・デコードを行うライブラリ。
 様々なプラットフォームをサポートしており、幅広く使われている。  
 
 ---
+
+## libjpeg-turbo
+
+| title | contents |
+|-|-|
+| No | 0114 |  
+| Survey date | 2023/07/22 |  
+| Official site | https://libjpeg-turbo.org |  
+| Source code | https://github.com/libjpeg-turbo/libjpeg-turbo |  
+| Language | C |  
+| Category | Graphics library |  
+| License | libjpeg-turbo Licenses |  
+| Status | Active |  
+
+JPEGのエンコード・デコードを行うライブラリ。  
+SIMD命令に対応し、オリジナルのlibjpegより高速化している。  
+
+---
