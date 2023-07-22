@@ -2102,3 +2102,21 @@ JPEGのエンコード・デコードを行うライブラリ。
 SIMD命令に対応し、オリジナルのlibjpegより高速化している。  
 
 ---
+
+## Eye of GNOME
+
+| title | contents |
+|-|-|
+| No | 0115 |  
+| Survey date | 2023/07/23 |  
+| Official site | https://help.gnome.org/users/eog/stable/commandline.html |  
+| Source code | https://gitlab.gnome.org/GNOME/eog |  
+| Language | C |  
+| Category | Image viewer |  
+| License | GPL2.0 |  
+| Status | Active |  
+
+PNGやJPEG、GIF、BMP、TIFF、WebpやAVIF等の様々な画像フォーマットの表示に対応した画像ビューワー。  
+Exifの表示にも対応している。  
+
+---
