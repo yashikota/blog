@@ -2120,3 +2120,21 @@ PNGやJPEG、GIF、BMP、TIFF、WebpやAVIF等の様々な画像フォーマッ�
 Exifの表示にも対応している。  
 
 ---
+
+## libwebp
+
+| title | contents |
+|-|-|
+| No | 0116 |  
+| Survey date | 2023/07/24 |  
+| Official site |https://developers.google.com/speed/webp  |  
+| Source code | https://chromium.googlesource.com/webm/libwebp |  
+| Language | C |  
+| Category | Image library |  
+| License | BSD-3 |  
+| Status | Active |  
+
+Webpのエンコード・デコードを行うライブラリ。  
+WebPイメージの閲覧やmux、アニメーション作成のためのツールも備える。  
+
+---
