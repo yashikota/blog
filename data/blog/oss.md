@@ -2127,7 +2127,7 @@ Exifの表示にも対応している。
 |-|-|
 | No | 0116 |  
 | Survey date | 2023/07/24 |  
-| Official site |https://developers.google.com/speed/webp  |  
+| Official site | https://developers.google.com/speed/webp  |  
 | Source code | https://chromium.googlesource.com/webm/libwebp |  
 | Language | C |  
 | Category | Image library |  
@@ -2136,5 +2136,23 @@ Exifの表示にも対応している。
 
 Webpのエンコード・デコードを行うライブラリ。  
 WebPイメージの閲覧やmux、アニメーション作成のためのツールも備える。  
+
+---
+
+## ImHex
+
+| title | contents |
+|-|-|
+| No | 0117 |  
+| Survey date | 2023/07/25 |  
+| Official site | https://imhex.werwolv.net |  
+| Source code | https://github.com/WerWolv/ImHex |  
+| Language | C++ |  
+| Category | Hex editor |  
+| License | GPL2.0 |  
+| Status | Active |  
+
+多機能なクロスプラットフォームバイナリエディタ。  
+正規表現によるパターンマッチングや動的な構造体を定義などができる。  
 
 ---
