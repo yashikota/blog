@@ -2156,3 +2156,21 @@ WebPイメージの閲覧やmux、アニメーション作成のためのツー�
 正規表現によるパターンマッチングや動的な構造体を定義などができる。  
 
 ---
+
+## libavif
+
+| title | contents |
+|-|-|
+| No | 0118 |  
+| Survey date | 2023/07/26 |  
+| Official site | https://github.com/AOMediaCodec/libavif |  
+| Source code | https://github.com/AOMediaCodec/libavif |  
+| Language | C |  
+| Category | Graphics library |  
+| License | Apache2.0 |  
+| Status | Active |  
+
+次世代の画像圧縮アルゴリズムであるAVIFのリファレンス実装。  
+コーディックライブラリをlibaomやdav1d、libgav1などに変更することができる。  
+
+---
