@@ -2174,3 +2174,21 @@ WebPイメージの閲覧やmux、アニメーション作成のためのツー�
 コーディックライブラリをlibaomやdav1d、libgav1などに変更することができる。  
 
 ---
+
+## OpenVDB
+
+| title | contents |
+|-|-|
+| No | 0119 |  
+| Survey date | 2023/07/27 |  
+| Official site | https://www.openvdb.org |  
+| Source code | https://github.com/AcademySoftwareFoundation/openvdb |  
+| Language | C++ |  
+| Category | Software library |  
+| License | MPL2.0 |  
+| Status | Active |  
+
+sparse volumetricデータを扱うためのソフトウェアライブラリ。  
+長編映画制作で一般的なボリューメトリック・アプリケーションに使用されている。  
+
+---
