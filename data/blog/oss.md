@@ -2192,3 +2192,21 @@ sparse volumetricデータを扱うためのソフトウェアライブラリ。
 長編映画制作で一般的なボリューメトリック・アプリケーションに使用されている。  
 
 ---
+
+## xv6
+
+| title | contents |
+|-|-|
+| No | 0120 |  
+| Survey date | 2023/07/29 |  
+| Official site | https://pdos.csail.mit.edu/6.828/2016/xv6.html |  
+| Source code | https://github.com/mit-pdos/xv6-public |  
+| Language | C |  
+| Category | OS |  
+| License | MIT |  
+| Status | Active |  
+
+Version 6 Unixをx86向けに再実装した教育用OS。  
+ソースコードをPDFにプリントアウトする機能があり、102ページに収まる。  
+
+---
