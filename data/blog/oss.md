@@ -2210,3 +2210,21 @@ Version 6 Unixをx86向けに再実装した教育用OS。
 ソースコードをPDFにプリントアウトする機能があり、102ページに収まる。  
 
 ---
+
+## xv6-riscv
+
+| title | contents |
+|-|-|
+| No | 0121 |  
+| Survey date | 2023/07/30 |  
+| Official site | https://pdos.csail.mit.edu/6.S081/2020/xv6.html |  
+| Source code | https://github.com/mit-pdos/xv6-riscv |  
+| Language | C |  
+| Category | OS |  
+| License | MIT |  
+| Status | Active |  
+
+xv6をRISC-V向けに再実装した教育用OS。  
+現在はこちらがメイン。  
+
+---
