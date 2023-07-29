@@ -2198,7 +2198,7 @@ sparse volumetricデータを扱うためのソフトウェアライブラリ。
 | title | contents |
 |-|-|
 | No | 0120 |  
-| Survey date | 2023/07/29 |  
+| Survey date | 2023/07/28 |  
 | Official site | https://pdos.csail.mit.edu/6.828/2016/xv6.html |  
 | Source code | https://github.com/mit-pdos/xv6-public |  
 | Language | C |  
@@ -2216,7 +2216,7 @@ Version 6 Unixをx86向けに再実装した教育用OS。
 | title | contents |
 |-|-|
 | No | 0121 |  
-| Survey date | 2023/07/30 |  
+| Survey date | 2023/07/29 |  
 | Official site | https://pdos.csail.mit.edu/6.S081/2020/xv6.html |  
 | Source code | https://github.com/mit-pdos/xv6-riscv |  
 | Language | C |  
@@ -2226,5 +2226,23 @@ Version 6 Unixをx86向けに再実装した教育用OS。
 
 xv6をRISC-V向けに再実装した教育用OS。  
 現在はこちらがメイン。  
+
+---
+
+## DVC
+
+| title | contents |
+|-|-|
+| No | 0122 |  
+| Survey date | 2023/07/30 |  
+| Official site | https://dvc.org |  
+| Source code | https://github.com/iterative/dvc |  
+| Language | Python |  
+| Category | Data |  
+| License | Apache2.0 |  
+| Status | Active |  
+
+Gitで管理がしにくい機械学習のモデルやデータファイルなどのサイズがデカイファイルをGitで管理しやすくする。  
+パブリッククラウドやセルフホストしたファイルサーバーなどが使える。  
 
 ---
