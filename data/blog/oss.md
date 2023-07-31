@@ -2264,3 +2264,21 @@ Gitで管理がしにくい機械学習のモデルやデータファイルな�
 NeovimやEmacsなどにも採用されている。  
 
 ---
+
+## Vim
+
+| title | contents |
+|-|-|
+| No | 0124 |  
+| Survey date | 2023/08/01 |  
+| Official site | https://www.vim.org |  
+| Source code | https://github.com/vim/vim |  
+| Language | Vim Script, C |  
+| Category | Text editor |  
+| License | Vim license |  
+| Status | Active |  
+
+CUIで動作するテキストエディタで全ての操作をキーボードで行える。  
+プラグイン等で拡張もでき、プログラマーなどに人気が高い。  
+
+---
