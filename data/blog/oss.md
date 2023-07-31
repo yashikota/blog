@@ -2246,3 +2246,21 @@ Gitで管理がしにくい機械学習のモデルやデータファイルな�
 パブリッククラウドやセルフホストしたファイルサーバーなどが使える。  
 
 ---
+
+## Tree-sitter
+
+| title | contents |
+|-|-|
+| No | 0123 |  
+| Survey date | 2023/07/31 |  
+| Official site | https://tree-sitter.github.io/tree-sitter |  
+| Source code | https://github.com/tree-sitter/tree-sitter |  
+| Language | Rust, C |  
+| Category | Parser |  
+| License | MIT |  
+| Status | Active |  
+
+様々な言語の構文解析が出来るライブラリ。  
+NeovimやEmacsなどにも採用されている。  
+
+---
