@@ -2300,3 +2300,21 @@ Vimから派生したテキストエディタ。
 Luaスクリプトの使用非同期のジョブ管理などモダンな機能が豊富に取り入れられている。  
 
 ---
+
+## Emacs
+
+| title | contents |
+|-|-|
+| No | 0126 |  
+| Survey date | 2023/08/03 |  
+| Official site | https://www.gnu.org/software/emacs |  
+| Source code | https://git.savannah.gnu.org/cgit/emacs.git |  
+| Language | Emacs lisp, C |  
+| Category | Text editor |  
+| License | GPL3.0 |  
+| Status | Active |  
+
+Vimと並ぶUnixにおける代表的なテキストエディタ。  
+拡張性が優れており、テキストエディタの枠に収まらずIDEとやメールクライアントはては[航空交通管制にも](https://ezoeryou.github.io/blog/article/2022-11-09-emacs.html)にも使われていた。  
+
+---
