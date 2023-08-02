@@ -2282,3 +2282,21 @@ CUIで動作するテキストエディタで全ての操作をキーボード�
 プラグイン等で拡張もでき、プログラマーなどに人気が高い。  
 
 ---
+
+## Neovim
+
+| title | contents |
+|-|-|
+| No | 0125 |  
+| Survey date | 2023/08/02 |  
+| Official site | https://neovim.io |  
+| Source code | https://github.com/neovim/neovim |  
+| Language | Vim Script, C, Lua |  
+| Category | Text editor |  
+| License | Apache2.0 |  
+| Status | Active |  
+
+Vimから派生したテキストエディタ。  
+Luaスクリプトの使用非同期のジョブ管理などモダンな機能が豊富に取り入れられている。  
+
+---
