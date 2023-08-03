@@ -2318,3 +2318,21 @@ Vimと並ぶUnixにおける代表的なテキストエディタ。
 拡張性が優れており、テキストエディタの枠に収まらずIDEとやメールクライアントはては[航空交通管制にも](https://ezoeryou.github.io/blog/article/2022-11-09-emacs.html)にも使われていた。  
 
 ---
+
+## GDB
+
+| title | contents |
+|-|-|
+| No | 0127 |  
+| Survey date | 2023/08/04 |  
+| Official site | https://www.sourceware.org/gdb |  
+| Source code | https://sourceware.org/git/binutils-gdb.git |  
+| Language | C, C++, Python |  
+| Category | Debugger |  
+| License | GPL3.0 |  
+| Status | Active |  
+
+プログラム実行中に変数の値の変更や追跡、関数の呼び出しなどを行えるデバッガー。  
+C言語にとどまらずC++やGo、Rustといった他のシステムプログラミング言語にも対応している。  
+
+---
