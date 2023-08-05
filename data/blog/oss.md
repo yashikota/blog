@@ -2336,3 +2336,21 @@ Vimと並ぶUnixにおける代表的なテキストエディタ。
 C言語にとどまらずC++やGo、Rustといった他のシステムプログラミング言語にも対応している。  
 
 ---
+
+## LLDB
+
+| title | contents |
+|-|-|
+| No | 0128 |  
+| Survey date | 2023/08/05 |  
+| Official site | https://lldb.llvm.org |  
+| Source code | https://github.com/llvm/llvm-project |  
+| Language | C++ |  
+| Category | Debugger |  
+| License | Apache2.0 |  
+| Status | Active |  
+
+LLVMプロジェクトが開発を行うデバッガー。  
+Pythonで扱うことも出来る。  
+
+---
