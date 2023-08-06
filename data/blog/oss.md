@@ -2372,3 +2372,21 @@ Pythonで扱うことも出来る。
 asdfと互換性があり、asdfよりも数十倍高速化されている。  
 
 ---
+
+## starship
+
+| title | contents |
+|-|-|
+| No | 0130 |  
+| Survey date | 2023/08/07 |  
+| Official site | https://starship.rs |  
+| Source code | https://github.com/starship/starship |  
+| Language | Rust |  
+| Category | Shell prompt |  
+| License | ISC |  
+| Status | Active |  
+
+クロスプラットフォームなシェルプロンプトをカスタマイズするソフトウェア。  
+綺麗で見栄えのあるシェルプロンプトが簡単に実現できる。  
+
+---
