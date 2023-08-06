@@ -2354,3 +2354,21 @@ LLVMプロジェクトが開発を行うデバッガー。
 Pythonで扱うことも出来る。  
 
 ---
+
+## rtx
+
+| title | contents |
+|-|-|
+| No | 0129 |  
+| Survey date | 2023/08/06 |  
+| Official site | https://github.com/jdxcode/rtx |  
+| Source code | https://github.com/jdxcode/rtx |  
+| Language | Rust |  
+| Category | Runtime manager |  
+| License | MIT |  
+| Status | Active |  
+
+様々な言語の実行環境のバージョンを管理できるマネージャー。  
+asdfと互換性があり、asdfよりも数十倍高速化されている。  
+
+---
