@@ -139,6 +139,6 @@ and more...
 
 ## Misc
 
-### GPG Public Key
+### PGP Public Key
 
 [yashikota.asc](https://yashikota.com/yashikota.asc)  
