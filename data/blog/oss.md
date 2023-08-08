@@ -2390,3 +2390,21 @@ asdfと互換性があり、asdfよりも数十倍高速化されている。
 綺麗で見栄えのあるシェルプロンプトが簡単に実現できる。  
 
 ---
+
+## fish
+
+| title | contents |
+|-|-|
+| No | 0131 |  
+| Survey date | 2023/08/08 |  
+| Official site | https://fishshell.com |  
+| Source code | https://github.com/fish-shell/fish-shell |  
+| Language | C++, Rust, Shell |  
+| Category | Unix shell |  
+| License | GPL2.0 |  
+| Status | Active |  
+
+デフォルトの設定でコマンドが補完されたりシンタックスハイライトが効いたりするユーザーフレンドリーなシェル。  
+テーマの変更もブラウザからGUIで行うことができ、簡単にカスタマイズができる。  
+
+---
