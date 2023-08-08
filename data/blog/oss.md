@@ -2408,3 +2408,21 @@ asdfと互換性があり、asdfよりも数十倍高速化されている。
 テーマの変更もブラウザからGUIで行うことができ、簡単にカスタマイズができる。  
 
 ---
+
+## wavedrom
+
+| title | contents |
+|-|-|
+| No | 0132 |  
+| Survey date | 2023/08/09 |  
+| Official site | https://wavedrom.com |  
+| Source code | https://github.com/wavedrom/wavedrom |  
+| Language | JavaScript |  
+| Category | Chart |  
+| License | MIT |  
+| Status | Active |  
+
+JSONで記述したテキストからタイミングチャートを生成するツール。  
+VSCodeに拡張機能もあり、リアルタイムでチャートが作れる。  
+
+---
