@@ -136,3 +136,9 @@ and more...
 - TOEIC 510
 - 第二種電気工事士
 - 乙種第4類危険物取扱者
+
+## Misc
+
+### GPG Public Key
+
+[yashikota.asc](https://yashikota.com/yashikota.asc)  
