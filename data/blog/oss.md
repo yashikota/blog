@@ -2426,3 +2426,21 @@ JSONで記述したテキストからタイミングチャートを生成する�
 VSCodeに拡張機能もあり、リアルタイムでチャートが作れる。  
 
 ---
+
+## Z shell
+
+| title | contents |
+|-|-|
+| No | 0133 |  
+| Survey date | 2023/08/10 |  
+| Official site | https://www.zsh.org |  
+| Source code | https://sourceforge.net/projects/zsh |  
+| Language | C |  
+| Category | Unix shell |  
+| License | MIT |  
+| Status | Active |  
+
+POSIX互換なシェルで、数多くの機能を持つ。  
+macではデフォルトのターミナルとして採用されている。  
+
+---
