@@ -2444,3 +2444,21 @@ POSIX互換なシェルで、数多くの機能を持つ。
 macではデフォルトのターミナルとして採用されている。  
 
 ---
+
+## GNU Privacy Guard
+
+| title | contents |
+|-|-|
+| No | 0134 |  
+| Survey date | 2023/08/11 |  
+| Official site | https://www.gnupg.org |  
+| Source code | https://dev.gnupg.org/source/gnupg |  
+| Language | C |  
+| Category | OpenPGP |  
+| License | GPL3.0 |  
+| Status | Active |  
+
+OpenPGPに準拠した暗号化ソフトウェア。  
+多くのOSに含まれており、電子メールクライアントなどにも搭載される。  
+
+---
