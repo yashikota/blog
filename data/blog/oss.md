@@ -2462,3 +2462,21 @@ OpenPGPに準拠した暗号化ソフトウェア。
 多くのOSに含まれており、電子メールクライアントなどにも搭載される。  
 
 ---
+
+## Make
+
+| title | contents |
+|-|-|
+| No | 0135 |  
+| Survey date | 2023/08/12 |  
+| Official site | https://www.gnu.org/software/make |  
+| Source code | https://git.savannah.gnu.org/cgit/make.git |  
+| Language | C |  
+| Category | Build tool |  
+| License | GPL3.0 |  
+| Status | Active |  
+
+複数のファイル間の依存関係を解決しながらビルドを行うツール。  
+タイムスタンプを参照して前回のビルドより更新が行われていない場合はビルドを行わない。  
+
+---
