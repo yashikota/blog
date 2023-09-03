@@ -42,13 +42,6 @@ const projectsData = [
     href: 'https://meetup.yashikota.com',
   },
   {
-    title: 'Pomodoro Timer',
-    description: `Siv3Dで作成したポモドーロタイマー
-    使用技術 : Siv3D, C++`,
-    imgSrc: '/static/images/no-image.jpg',
-    href: 'https://github.com/yashikota/pomodoro-timer',
-  },
-  {
     title: 'AtCoder Beginner Contest API',
     description: `開催時期が一番近いAtCoder Beginner Contestの情報を取得するAPI
     使用技術 : Deno, TypeScript, Deno Deploy`,
