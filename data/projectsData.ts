@@ -1,17 +1,17 @@
 const projectsData = [
   {
+    title: 'OIT MAGIC',
+    description: `学園祭展示用のゲーム。手の動きを認識して魔法を発動させることができる
+    使用技術 : Unity, C#, Python, MediaPipe`,
+    imgSrc: '/static/images/magic.png',
+    href: 'https://github.com/yashikota/oit-magic',
+  },
+  {
     title: 'OITシラバスアプリ',
     description: `大阪工業大学の全学部・大学院に対応したシラバス閲覧アプリ。インクリメンタルサーチやフィルタリングに対応
     使用技術 : React, TypeScript, MUI, Python, Github Actions`,
     imgSrc: '/static/images/syllabus.webp',
     href: 'https://syllabus.oit.yashikota.com',
-  },
-  {
-    title: 'OIT Tools',
-    description: `シラバスアプリ等へのリンクや大阪工業大学のニュース、リンク集を掲載
-    使用技術 : React, TypeScript, MUI`,
-    imgSrc: '/static/images/tools.webp',
-    href: 'https://oit.yashikota.com',
   },
   {
     title: `FunBook`,
@@ -33,6 +33,13 @@ const projectsData = [
     使用技術 : Python`,
     imgSrc: '/static/images/jancode.png',
     href: 'https://github.com/yashikota/jancode',
+  },
+  {
+    title: 'OIT Tools',
+    description: `シラバスアプリ等へのリンクや大阪工業大学のニュース、リンク集を掲載
+    使用技術 : React, TypeScript, MUI`,
+    imgSrc: '/static/images/tools.webp',
+    href: 'https://oit.yashikota.com',
   },
   {
     title: '勉強会 資料集',
