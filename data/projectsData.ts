@@ -3,7 +3,7 @@ const projectsData = [
     title: 'OIT MAGIC',
     description: `学園祭展示用のゲーム。手の動きを認識して魔法を発動させることができる
     使用技術 : Unity, C#, Python, MediaPipe`,
-    imgSrc: '/static/images/magic.png',
+    imgSrc: '/static/images/oit-magic.gif',
     href: 'https://github.com/yashikota/oit-magic',
   },
   {
